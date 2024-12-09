@@ -1,0 +1,12 @@
+C:\git-program\particle_detect\shnu-filter-data\550\550-y\Y1-550\C001H001S0001
+processed_No.1_C001H001S0001003898  -¡· processed_No.1_C001H001S0001003998  
+
+real polygon2
+
+processed_No.1_C001H001S0001004101 -> processed_No.1_C001H001S0001004401
+
+yolov10
+processed_No.1_C001H001S0001001959 -> processed_No.1_C001H001S0001002284
+
+efficientnet_2(yolov10 as 1)
+processed_No.1_C001H001S0001003207 -> processed_No.1_C001H001S0001003536
