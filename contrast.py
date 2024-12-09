@@ -29,12 +29,21 @@ def enhance_contrast_CLAHE(image):
     return clahe.apply(image)
 
 
+def sharpen_image(image):
+    # 定义一个锐化核
+    kernel = np.array([[0, -1, 0], [-1, 5, -1], [0, -1, 0]])
+    # 使用滤波器进行锐化
+    sharpened = cv2.filter2D(image, -1, kernel)
+    return sharpened
+
+
 def process_image(image_path, output_path, config=None):
     # 读取图像
     image = cv2.imread(image_path, cv2.IMREAD_GRAYSCALE)
     image_original = image.copy()  # 保留原始图像
     # image = enhance_contrast_CLAHE(image)
     image = enhance_contrast(image)
+    # image = sharpen_image(image)
     # image = enhance_exposure(image)
     image = np.hstack((image_original, image))
 
