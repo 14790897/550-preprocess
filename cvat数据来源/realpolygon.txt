@@ -10,3 +10,6 @@ processed_No.1_C001H001S0001001959 -> processed_No.1_C001H001S0001002284
 
 efficientnet_2(yolov10 as 1)
 processed_No.1_C001H001S0001003207 -> processed_No.1_C001H001S0001003536
+
+efficient
+0-512

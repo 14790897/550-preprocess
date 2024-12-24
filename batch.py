@@ -3,13 +3,14 @@ from contrast import process_image
 import os
 
 
-def process_images_in_directory(directory, config):
+def process_images_in_directory(directory, output_directory, config):
     """对目录下的所有JPEG文件进行处理"""
+    os.makedirs(output_directory, exist_ok=True)
     for filename in os.listdir(directory):
         if filename.lower().endswith(".jpg"):
             image_path = os.path.join(directory, filename)
             print(f'{image_path}')
-            output_path = os.path.join("process", "processed_" + filename)
+            output_path = os.path.join(output_directory, "processed_" + filename)
             process_image(image_path, output_path, config)
 
 
@@ -38,6 +39,8 @@ pipeline_config = {
 }
 
 # 使用示例，指定你的目录路径
-directory = "550-y\Y1-550\C001H001S0001"  # 替换为实际的图像目录路径
-rename_files_in_directory(directory)
-process_images_in_directory(directory, pipeline_config)
+input_directory = "550-y\Y2-550\相机No.1_C001H001S0001"  # 替换为实际的图像目录路径  "550-y\Y2-550\相机No.1_C001H001S0001" "550-y\Y1-550\C001H001S0001"
+output_directory = "processed_y2_550"  # 自定义输出目录
+
+rename_files_in_directory(input_directory)
+process_images_in_directory(input_directory, output_directory, pipeline_config)

@@ -2,3 +2,8 @@
 process/*
 __pycache__/
 x-550.zip
+
+**/*.jpg
+
+*.tiff
+*.tif
