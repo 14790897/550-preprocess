@@ -48,6 +48,12 @@
         <mxCell id="Yhgi9W2h9z9hjbwJ3QTV-0" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=1;aspect=fixed;image=img/clipart/Gear_128x128.png" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="50" y="320" width="52" height="61" as="geometry" />
         </mxCell>
+        <mxCell id="Yhgi9W2h9z9hjbwJ3QTV-1" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;fillColor=strokeColor;align=center;outlineConnect=0;shape=mxgraph.fluid_power.x12290;points=[[0.5,0,0],[0.5,1,0]]" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="390" y="60" width="52.44" height="99.6" as="geometry" />
+        </mxCell>
+        <mxCell id="Yhgi9W2h9z9hjbwJ3QTV-2" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.hdr_hybrid_disaster_recovery;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="90" y="120" width="47.400000000000006" height="47.400000000000006" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
