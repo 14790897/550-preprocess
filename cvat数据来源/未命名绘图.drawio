@@ -20,13 +20,13 @@
           <mxGeometry x="50" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cnTVFmawlj7cKAnSD6l6-5" value="&lt;font face=&quot;Times New Roman&quot;&gt;Margin&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="40" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="50" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cnTVFmawlj7cKAnSD6l6-6" value="&lt;font face=&quot;Times New Roman&quot;&gt;Number of captured frames&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="30" y="450" width="120" height="60" as="geometry" />
+          <mxGeometry x="50" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cnTVFmawlj7cKAnSD6l6-7" value="&lt;font face=&quot;Times New Roman&quot;&gt;Number of images&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="30" y="520" width="120" height="60" as="geometry" />
+          <mxGeometry x="50" y="525" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
