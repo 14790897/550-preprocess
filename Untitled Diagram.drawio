@@ -29,7 +29,7 @@
             <mxPoint x="51" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Yhgi9W2h9z9hjbwJ3QTV-15" value="Particle Detection&lt;div&gt;• YOLOv8s&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=12;fontColor=default;fillColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="Yhgi9W2h9z9hjbwJ3QTV-15" value="Particle Detection" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=12;fontColor=default;fillColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="19.69" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Yhgi9W2h9z9hjbwJ3QTV-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=12;fontColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Yhgi9W2h9z9hjbwJ3QTV-19" target="Yhgi9W2h9z9hjbwJ3QTV-22" edge="1">
@@ -46,7 +46,7 @@
         <mxCell id="Yhgi9W2h9z9hjbwJ3QTV-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=12;fontColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Yhgi9W2h9z9hjbwJ3QTV-22" target="Yhgi9W2h9z9hjbwJ3QTV-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Yhgi9W2h9z9hjbwJ3QTV-22" value="Multi-Object Tracking&lt;div&gt;• ByteTrack&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=12;fontColor=default;fillColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="Yhgi9W2h9z9hjbwJ3QTV-22" value="Multi-Object Tracking" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=12;fontColor=default;fillColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="19.69" y="421.38" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Yhgi9W2h9z9hjbwJ3QTV-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=12;fontColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Yhgi9W2h9z9hjbwJ3QTV-23" target="Yhgi9W2h9z9hjbwJ3QTV-28" edge="1">
@@ -57,7 +57,7 @@
             <mxPoint y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Yhgi9W2h9z9hjbwJ3QTV-23" value="State Classification&lt;div&gt;• EfficientNet-B1&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=12;fontColor=default;fillColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="Yhgi9W2h9z9hjbwJ3QTV-23" value="State Classification" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=12;fontColor=default;fillColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="302.86" y="421.38" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Yhgi9W2h9z9hjbwJ3QTV-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=12;fontColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Yhgi9W2h9z9hjbwJ3QTV-28" target="Yhgi9W2h9z9hjbwJ3QTV-30" edge="1">
