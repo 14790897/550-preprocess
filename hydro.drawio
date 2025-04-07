@@ -1,9 +1,57 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.2.8">
   <diagram name="Page-1" id="7JwyW4FuynI3zw1Lpk3y">
-    <mxGraphModel>
+    <mxGraphModel dx="865" dy="501" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="2" value="1" style="shape=pump;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="320" y="480" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="2" style="shape=valve;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="340" y="410" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="3" style="shape=cylinder;fillColor=#d5e8f5;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="320" y="280" width="60" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="4" style="shape=valve;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="310" y="180" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="5" style="shape=valve;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="340" y="110" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="6" style="shape=cone;fillColor=#d5e8f5;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="470" y="230" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="7" style="shape=camera;fillColor=#00ff00;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="570" y="250" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0000ff;endArrow=block;" edge="1" parent="1" source="2" target="3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0000ff;endArrow=block;" edge="1" parent="1" source="3" target="4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#ff0000;endArrow=block;" edge="1" parent="1" source="4" target="7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="230" as="sourcePoint" />
+            <mxPoint x="470" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0000ff;endArrow=block;" edge="1" parent="1" source="7" target="5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="495" y="330" as="sourcePoint" />
+            <mxPoint x="310" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0000ff;endArrow=block;" edge="1" parent="1" source="5" target="4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0000ff;endArrow=block;" edge="1" parent="1" source="4" target="6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0000ff;endArrow=block;" edge="1" parent="1" source="7" target="8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
