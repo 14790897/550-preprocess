@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1260" dy="721" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="869" dy="497" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -38,7 +38,7 @@
             <mxPoint x="46" y="6" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Yhgi9W2h9z9hjbwJ3QTV-19" value="&lt;span style=&quot;font-family: Helvetica;&quot;&gt;apply to camera y images&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=12;fontColor=default;fillColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="Yhgi9W2h9z9hjbwJ3QTV-19" value="&lt;font face=&quot;Helvetica&quot;&gt;Applied to camera Y images&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=12;fontColor=default;fillColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="19.69" y="321" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="Yhgi9W2h9z9hjbwJ3QTV-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=12;fontColor=default;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Yhgi9W2h9z9hjbwJ3QTV-22" target="Yhgi9W2h9z9hjbwJ3QTV-23" edge="1">
@@ -135,8 +135,8 @@
         <mxCell id="Th4GGg6JgrN1hjIEil5S-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Th4GGg6JgrN1hjIEil5S-1" target="Th4GGg6JgrN1hjIEil5S-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Th4GGg6JgrN1hjIEil5S-1" value="apply to camera x images" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="164" y="319" width="100" height="42" as="geometry" />
+        <mxCell id="Th4GGg6JgrN1hjIEil5S-1" value="Applied to camera X images" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="164" y="324" width="100" height="42" as="geometry" />
         </mxCell>
         <mxCell id="Th4GGg6JgrN1hjIEil5S-4" value="\(\delta_r\)&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="173.5" y="393" width="81" height="38" as="geometry" />
