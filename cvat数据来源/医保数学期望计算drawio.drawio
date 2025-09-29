@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.5">
   <diagram name="Page-1" id="fau1d1SN9pRvBzFMPrUC">
-    <mxGraphModel dx="2392" dy="865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3103" dy="1258" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KiAbnsjRKru4ppElIW58-2" value="城乡居民基本医疗保险缴费情况" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="15" width="120" height="60" as="geometry" />
+          <mxGeometry x="305" y="15" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KiAbnsjRKru4ppElIW58-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KiAbnsjRKru4ppElIW58-3" target="KiAbnsjRKru4ppElIW58-13">
           <mxGeometry relative="1" as="geometry" />
@@ -28,7 +28,7 @@
         </mxCell>
         <UserObject label="&lt;p style=&quot;text-size-adjust: none; margin: 15px 0px 0px; padding: 0px; border: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; text-indent: 2em;&quot;&gt;新华社北京8月26日电（记者 徐鹏航、彭韵佳）根据国家医保局等部门26日公布的&lt;a href=&quot;https://www.gov.cn/zhengce/zhengceku/202408/content_6970593.htm&quot; target=&quot;_blank&quot; data-needdownload=&quot;false&quot; data-needparse=&quot;false&quot; style=&quot;text-size-adjust: none; margin: 0px; padding: 0px; border: 0px; outline: none; text-decoration: none; color: rgb(11, 119, 205); list-style: none;&quot;&gt;《关于做好2024年城乡居民基本医疗保障有关工作的通知》&lt;/a&gt;，2024年城乡居民基本医疗保险财政补助和个人缴费标准分别较上年增加30元和20元，达到每人每年不低于670元和400元。&lt;/p&gt;来源:https://www.gov.cn/lianbo/bumen/202408/content_6970589.htm" link="&lt;p style=&quot;text-size-adjust: none; margin: 15px 0px 0px; padding: 0px; border: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; text-indent: 2em;&quot;&gt;新华社北京8月26日电（记者 徐鹏航、彭韵佳）根据国家医保局等部门26日公布的&lt;a href=&quot;https://www.gov.cn/zhengce/zhengceku/202408/content_6970593.htm&quot; target=&quot;_blank&quot; data-needdownload=&quot;false&quot; data-needparse=&quot;false&quot; style=&quot;text-size-adjust: none; margin: 0px; padding: 0px; border: 0px; outline: none; text-decoration: none; color: rgb(11, 119, 205); list-style: none;&quot;&gt;《关于做好2024年城乡居民基本医疗保障有关工作的通知》&lt;/a&gt;，2024年城乡居民基本医疗保险财政补助和个人缴费标准分别较上年增加30元和20元，达到每人每年不低于670元和400元。&lt;/p&gt;&lt;br class=&quot;Apple-interchange-newline&quot;&gt;" id="KiAbnsjRKru4ppElIW58-3">
           <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="30" y="125" width="560" height="130" as="geometry" />
+            <mxGeometry x="85" y="120" width="560" height="130" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="KiAbnsjRKru4ppElIW58-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KiAbnsjRKru4ppElIW58-5" target="KiAbnsjRKru4ppElIW58-42">
@@ -60,17 +60,11 @@
         <mxCell id="KiAbnsjRKru4ppElIW58-10" value="&lt;p style=&quot;text-size-adjust: none; margin: 15px 0px 0px; padding: 0px; border: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; text-indent: 2em;&quot;&gt;年轻人住院情况: 20—29岁年龄段人群住院率为7%&lt;/p&gt;&lt;p style=&quot;text-size-adjust: none; margin: 15px 0px 0px; padding: 0px; border: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; text-indent: 2em;&quot;&gt;&lt;font&gt;引用资料:&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;text-size-adjust: none; margin: 15px 0px 0px; padding: 0px; border: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; text-indent: 2em;&quot;&gt;&lt;font&gt;很多健康状况比较好的人，特别是年轻人认为没有必要参加基本医保。对此，黄华波表示，基本医保是用来防风险的。每个群体都可能面临疾病风险，国家医保平台最新数据显示，20—29岁年龄段人群住院率为7%，以人次来看，为9%。这个年龄段住院费用最高为205万元，疾病风险是很大的。按时参加医保，是明智且必要的选择。&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;text-size-adjust: none; margin: 15px 0px 0px; padding: 0px; border: 0px; list-style: none; color: rgb(51, 51, 51); font-family: 宋体; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; text-indent: 2em;&quot;&gt;&lt;font&gt;https://www.gov.cn/zhengce/202408/content_6966056.htm&lt;/font&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-390" y="690" width="550" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="KiAbnsjRKru4ppElIW58-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KiAbnsjRKru4ppElIW58-13" target="KiAbnsjRKru4ppElIW58-42">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="595" y="365" />
-              <mxPoint x="595" y="950" />
-              <mxPoint x="320" y="950" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="KiAbnsjRKru4ppElIW58-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KiAbnsjRKru4ppElIW58-13" target="KiAbnsjRKru4ppElIW58-42">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KiAbnsjRKru4ppElIW58-13" value="上海缴费情况: 995元&#xa;引用资料:（二）2025年本市城乡居民医保的个人缴费标准作如下调整：70周岁以上人员，个人缴费标准从每人每年595元调整为655元；60-69周岁人员从每人每年765元调整为825元；超过18周岁、不满60周岁人员从每人每年935元调整为995元；中小学生和婴幼儿、以及大学生从每人每年295元调整为355元。&#xa;https://ybj.sh.gov.cn/gfxwj/20241118/09edaee89c1245ec95f6f4befd727488.html" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="45" y="300" width="530" height="130" as="geometry" />
+          <mxGeometry x="100" y="300" width="530" height="130" as="geometry" />
         </mxCell>
         <mxCell id="KiAbnsjRKru4ppElIW58-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KiAbnsjRKru4ppElIW58-21" target="KiAbnsjRKru4ppElIW58-5">
           <mxGeometry relative="1" as="geometry" />
@@ -89,7 +83,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KiAbnsjRKru4ppElIW58-31" value="门诊人数:   26.1亿人次, 26.1/14*100%=18.6%            住院2亿人次  2/14*100%=14.3%&#xa;&#xa;引用资料:3.待遇享受。2023年，参加居民医保人员享受待遇26.1亿人次，比上年增长21.1%。其中，普通门急诊20.8亿人次，门诊慢特病3.4亿人次，住院2亿人次。次均住院费用7674元，其中，在三级、二级、一级及以下医疗机构（含未定级）的次均住院费用分别为12765元、6205元、2943元。居民医保参保人员住院率&#xa;为20.7%，次均住院床日8.8天。&#xa;https://www.nhsa.gov.cn/art/2024/7/25/art_7_13340.html" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="40" y="480" width="560" height="130" as="geometry" />
+          <mxGeometry x="40" y="470" width="560" height="130" as="geometry" />
         </mxCell>
         <mxCell id="KiAbnsjRKru4ppElIW58-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KiAbnsjRKru4ppElIW58-34" target="KiAbnsjRKru4ppElIW58-42">
           <mxGeometry relative="1" as="geometry" />
