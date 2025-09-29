@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.5">
   <diagram name="Page-1" id="fau1d1SN9pRvBzFMPrUC">
-    <mxGraphModel dx="1727" dy="513" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2365" dy="865" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -94,8 +94,8 @@
         <mxCell id="KiAbnsjRKru4ppElIW58-34" value="推断: 年轻人就诊概率为平均概率的1/3&lt;div&gt;年轻人看病支出为1000/3=333元&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="1">
           <mxGeometry x="205" y="830" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KiAbnsjRKru4ppElIW58-42" value="结论: 年轻人医保在上海数学期望是亏的" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="280" y="1010" width="80" height="80" as="geometry" />
+        <mxCell id="KiAbnsjRKru4ppElIW58-42" value="结论: 年轻人医保在上海数学期望是亏的,&lt;div&gt;其他地区大概率也亏&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="258.5" y="1011" width="123" height="121" as="geometry" />
         </mxCell>
         <mxCell id="KiAbnsjRKru4ppElIW58-50" value="泊松分布:1 - e^-2.72=0.93&lt;div&gt;1 - e^-0.21=0.189&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;人均至少一次住院概率为18.9%&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=28;" vertex="1" parent="1">
           <mxGeometry x="-165" y="362" width="195" height="60" as="geometry" />
