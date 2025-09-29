@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.5">
   <diagram name="Page-1" id="fau1d1SN9pRvBzFMPrUC">
-    <mxGraphModel dx="3076" dy="1258" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1727" dy="513" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -79,7 +79,10 @@
             <mxGeometry x="-750" y="40" width="580" height="300" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="KiAbnsjRKru4ppElIW58-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KiAbnsjRKru4ppElIW58-31" target="KiAbnsjRKru4ppElIW58-50">
+        <mxCell id="KiAbnsjRKru4ppElIW58-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="KiAbnsjRKru4ppElIW58-31" target="KiAbnsjRKru4ppElIW58-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KiAbnsjRKru4ppElIW58-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KiAbnsjRKru4ppElIW58-31" target="KiAbnsjRKru4ppElIW58-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KiAbnsjRKru4ppElIW58-31" value="门诊人数:   26.1亿人次, 26.1/9.6=2.72次/人            住院2亿人次  2/9.6=0.21次/人&#xa;&#xa;引用资料:&#xa;1.参保人数。截至2023年底，城乡居民基本医疗保险（以下简称居民医保）参保96294万人。&#xa;3.待遇享受。2023年，参加居民医保人员享受待遇26.1亿人次，比上年增长21.1%。其中，普通门急诊20.8亿人次，门诊慢特病3.4亿人次，住院2亿人次。次均住院费用7674元，其中，在三级、二级、一级及以下医疗机构（含未定级）的次均住院费用分别为12765元、6205元、2943元。居民医保参保人员住院率&#xa;为20.7%，次均住院床日8.8天。&#xa;https://www.nhsa.gov.cn/art/2024/7/25/art_7_13340.html" style="text;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
@@ -88,17 +91,20 @@
         <mxCell id="KiAbnsjRKru4ppElIW58-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KiAbnsjRKru4ppElIW58-34" target="KiAbnsjRKru4ppElIW58-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KiAbnsjRKru4ppElIW58-34" value="推断: 年轻人就诊概率为平均概率的一半&lt;div&gt;年轻人看病支出为1000/2=500元&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="1">
+        <mxCell id="KiAbnsjRKru4ppElIW58-34" value="推断: 年轻人就诊概率为平均概率的1/3&lt;div&gt;年轻人看病支出为1000/3=333元&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="1">
           <mxGeometry x="205" y="830" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KiAbnsjRKru4ppElIW58-42" value="结论: 年轻人医保在上海数学期望是亏的" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="280" y="1010" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="KiAbnsjRKru4ppElIW58-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KiAbnsjRKru4ppElIW58-50" target="KiAbnsjRKru4ppElIW58-34">
+        <mxCell id="KiAbnsjRKru4ppElIW58-50" value="泊松分布:1 - e^-2.72=0.93&lt;div&gt;1 - e^-0.21=0.189&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;人均至少一次住院概率为18.9%&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=28;" vertex="1" parent="1">
+          <mxGeometry x="-165" y="362" width="195" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KiAbnsjRKru4ppElIW58-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KiAbnsjRKru4ppElIW58-56" target="KiAbnsjRKru4ppElIW58-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KiAbnsjRKru4ppElIW58-50" value="泊松分布:1 - e^-2.72=0.93&lt;div&gt;1 - e^-0.21=0.189&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;人均住院概率为18.9%&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=28;" vertex="1" parent="1">
-          <mxGeometry x="222.5" y="650" width="195" height="60" as="geometry" />
+        <mxCell id="KiAbnsjRKru4ppElIW58-56" value="人均住院概率为21%" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="647" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
