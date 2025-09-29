@@ -43,11 +43,11 @@
         </UserObject>
         <UserObject label="住院回报率计算示例&#xa;基本假设&#xa;住院概率：根据2024年统计数据，住院人次数与参保人数之比约为0.2175，视作个人一年内住院一次的概率约21.75%。&#xa;&#xa;平均住院费用：次均住院费用约7 408元&#xa;&#xa;医保报销比例：政策范围内住院目录内费用由基金支付的比例为68.6%&#xa;&#xa;个人缴费：居民医保个人缴费400元/年&#xa;&#xa;预期支出对比&#xa;不参保时：发生住院时需全额自付。住院概率为21.75%，平均费用7 408元，因此期望支出=0.2175×7 408≈1 611元/人·年。&#xa;&#xa;参保后：住院费用的68.6%由医保基金支付，个人自付比例约31.4%。平均个人自付费用=7 408×(1–0.686)=约2 321元。期望住院自付支出=0.2175×2 321≈506元，再加上年度缴费400元，总期望支出约906元/人·年。" link="回报率计算示例&#xa;基本假设&#xa;住院概率：根据2024年统计数据，住院人次数与参保人数之比约为0.2175，视作个人一年内住院一次的概率约21.75%。&#xa;&#xa;&#xa;平均住院费用：次均住院费用约7 408元&#xa;gov.cn&#xa;。&#xa;&#xa;&#xa;医保报销比例：政策范围内住院目录内费用由基金支付的比例为68.6%&#xa;gov.cn&#xa;。&#xa;&#xa;&#xa;个人缴费：居民医保个人缴费400元/年&#xa;gov.cn&#xa;。&#xa;&#xa;&#xa;预期支出对比&#xa;不参保时：发生住院时需全额自付。住院概率为21.75%，平均费用7 408元，因此期望支出=0.2175×7 408≈1 611元/人·年。&#xa;&#xa;&#xa;参保后：住院费用的68.6%由医保基金支付，个人自付比例约31.4%。平均个人自付费用=7 408×(1–0.686)=约2 321元。期望住院自付支出=0.2175×2 321≈506元，再加上年度缴费400元，总期望支出约906元/人·年。" id="KiAbnsjRKru4ppElIW58-6">
           <mxCell style="text;whiteSpace=wrap;" parent="1" vertex="1">
-            <mxGeometry x="-750" y="1350" width="560" height="350" as="geometry" />
+            <mxGeometry x="-175" y="1398" width="560" height="350" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="KiAbnsjRKru4ppElIW58-7" value="2023门诊花费: 7,111.05 亿元 ÷ 20.8 亿人次 ≈ 341.5 元／次&#xa;引用资料: 2023年，参加居民医保人员享受待遇26.1亿人次，比上年增长21.1%。其中，普通门急诊20.8亿人次，门诊慢特病3.4亿人次，住院2亿人次。次均住院费用7674元，居民医保参保人员住院率为20.7%，次均住院床日8.8天。2023年，居民医保参保人员医药费用19581.56亿元，比上年增长19.4%。居民医保住院费用目录内基金支付比例68.1%。&#xa;https://www.gov.cn/lianbo/bumen/202407/content_6964533.htm" style="text;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="-760" y="1240" width="560" height="80" as="geometry" />
+          <mxGeometry x="-761" y="1475" width="560" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KiAbnsjRKru4ppElIW58-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="KiAbnsjRKru4ppElIW58-10" target="KiAbnsjRKru4ppElIW58-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
