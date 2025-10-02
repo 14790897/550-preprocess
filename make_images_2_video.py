@@ -2,7 +2,7 @@ import cv2
 import os
 
 
-def images_to_video(image_folder, output_video, frame_rate=30):
+def images_to_video(image_folder, output_video, frame_rate=25):
     # 获取目录下的所有图片文件并排序
     images = [
         img
@@ -25,7 +25,7 @@ def images_to_video(image_folder, output_video, frame_rate=30):
     height, width, layers = first_image.shape
 
     # 初始化视频编码器（这里使用 MJPEG 编码，保存为 .avi 格式）
-    fourcc = cv2.VideoWriter_fourcc(*"MJPG")
+    fourcc = cv2.VideoWriter_fourcc(*"h264")
     video = cv2.VideoWriter(output_video, fourcc, frame_rate, (width, height))
 
     # 将每一张图片写入视频
@@ -41,7 +41,7 @@ def images_to_video(image_folder, output_video, frame_rate=30):
 
 # 设置图片目录和输出视频路径
 image_folder = "./process"  # 图片文件夹路径
-output_video = "./test_particle_video3.avi"  # 输出视频文件路径
+output_video = "./my_process_particle_video.mp4"  # 输出视频文件路径
 frame_rate = 20  # 每秒帧数
 
 images_to_video(image_folder, output_video, frame_rate)

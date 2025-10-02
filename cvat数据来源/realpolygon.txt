@@ -13,3 +13,16 @@ processed_No.1_C001H001S0001003207 -> processed_No.1_C001H001S0001003536
 
 efficient
 0-512
+
+
+pure_particle_detect
+y1-550  : 3133-3396   4057-4440
+x-550£º x-1141 ->  x-1500
+
+mot_eval
+
+y1 550: 2665->2940
+
+
+mot_modify
+processed_No.1_C001H001S0001001129 -> processed_No.1_C001H001S0001001416.jpg
