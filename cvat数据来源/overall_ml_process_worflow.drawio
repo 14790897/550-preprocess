@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="28.2.9" pages="6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="28.2.9" pages="7">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="机器学习流程图">
     <mxGraphModel grid="0" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -795,7 +795,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="VIsSRYZ1gniQNdLj9xl2" name="趋势对比">
-    <mxGraphModel dx="8617" dy="4800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="10" pageHeight="10" math="1" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="10" pageHeight="10" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -835,7 +835,15 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="qD_k5OE3A1Ao_YvVV7rA" name="replenish">
+  <diagram id="qD_k5OE3A1Ao_YvVV7rA" name="趋势对比-replenish">
+    <mxGraphModel dx="1252" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="10" pageHeight="10" math="1" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="kA_sS45PIKChS8UQQrgr" name="误差对比">
     <mxGraphModel dx="1252" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="10" pageHeight="10" math="1" shadow="0">
       <root>
         <mxCell id="0" />
