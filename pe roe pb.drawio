@@ -1,137 +1,155 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.0.3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.1.0">
   <diagram name="财务与估值指标思维导图" id="ufsj-q_5ipa0hjQiidSy">
-    <mxGraphModel dx="1423" dy="814" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="10" pageHeight="10" math="0" shadow="0">
+    <mxGraphModel dx="1478" dy="813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="10" pageHeight="10" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="lUxX8NhGaM9syOrfwbrv-1" value="财务与估值指标关系" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="485" y="225" width="200" height="100" as="geometry" />
+        <mxCell id="lUxX8NhGaM9syOrfwbrv-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" value="财务与估值指标关系" vertex="1">
+          <mxGeometry height="100" width="200" x="485" y="225" as="geometry" />
         </mxCell>
-        <mxCell id="lUxX8NhGaM9syOrfwbrv-2" value="估值指标" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="295" y="110" width="140" height="60" as="geometry" />
+        <mxCell id="lUxX8NhGaM9syOrfwbrv-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=13;" value="估值指标" vertex="1">
+          <mxGeometry height="60" width="140" x="295" y="110" as="geometry" />
         </mxCell>
-        <mxCell id="lUxX8NhGaM9syOrfwbrv-3" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;" edge="1" parent="1" source="lUxX8NhGaM9syOrfwbrv-1" target="lUxX8NhGaM9syOrfwbrv-2">
+        <mxCell id="lUxX8NhGaM9syOrfwbrv-3" edge="1" parent="1" source="lUxX8NhGaM9syOrfwbrv-1" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;" target="lUxX8NhGaM9syOrfwbrv-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lUxX8NhGaM9syOrfwbrv-4" value="PE 市盈率&#xa;= 市值 / 净利润&#xa;= 股价 / EPS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="60" y="40" width="180" height="80" as="geometry" />
+        <mxCell id="lUxX8NhGaM9syOrfwbrv-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12;" value="PE 市盈率&#xa;= 市值 / 净利润&#xa;= 股价 / EPS" vertex="1">
+          <mxGeometry height="80" width="180" x="60" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="lUxX8NhGaM9syOrfwbrv-5" style="endArrow=block;rounded=0;html=1;" edge="1" parent="1" source="lUxX8NhGaM9syOrfwbrv-2" target="lUxX8NhGaM9syOrfwbrv-4">
+        <mxCell id="lUxX8NhGaM9syOrfwbrv-5" edge="1" parent="1" source="lUxX8NhGaM9syOrfwbrv-2" style="endArrow=block;rounded=0;html=1;" target="lUxX8NhGaM9syOrfwbrv-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lUxX8NhGaM9syOrfwbrv-6" value="PB 市净率&#xa;= 市值 / 净资产" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="60" y="150" width="180" height="60" as="geometry" />
+        <mxCell id="lUxX8NhGaM9syOrfwbrv-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12;" value="PB 市净率&#xa;= 市值 / 净资产" vertex="1">
+          <mxGeometry height="60" width="180" x="60" y="150" as="geometry" />
         </mxCell>
-        <mxCell id="lUxX8NhGaM9syOrfwbrv-7" style="endArrow=block;rounded=0;html=1;" edge="1" parent="1" source="lUxX8NhGaM9syOrfwbrv-2" target="lUxX8NhGaM9syOrfwbrv-6">
+        <mxCell id="lUxX8NhGaM9syOrfwbrv-7" edge="1" parent="1" source="lUxX8NhGaM9syOrfwbrv-2" style="endArrow=block;rounded=0;html=1;" target="lUxX8NhGaM9syOrfwbrv-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lUxX8NhGaM9syOrfwbrv-8" value="PS 市销率&#xa;= 市值 / 营收" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="60" y="230" width="180" height="60" as="geometry" />
+        <mxCell id="lUxX8NhGaM9syOrfwbrv-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12;" value="PS 市销率&#xa;= 市值 / 营收" vertex="1">
+          <mxGeometry height="60" width="180" x="60" y="230" as="geometry" />
         </mxCell>
-        <mxCell id="lUxX8NhGaM9syOrfwbrv-9" style="endArrow=block;rounded=0;html=1;" edge="1" parent="1" source="lUxX8NhGaM9syOrfwbrv-2" target="lUxX8NhGaM9syOrfwbrv-8">
+        <mxCell id="lUxX8NhGaM9syOrfwbrv-9" edge="1" parent="1" source="lUxX8NhGaM9syOrfwbrv-2" style="endArrow=block;rounded=0;html=1;" target="lUxX8NhGaM9syOrfwbrv-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lUxX8NhGaM9syOrfwbrv-10" value="E/P 盈利收益率&#xa;= 净利润 / 市值&#xa;= 1 / PE" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="60" y="310" width="180" height="70" as="geometry" />
+        <mxCell id="lUxX8NhGaM9syOrfwbrv-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12;" value="E/P 盈利收益率&#xa;= 净利润 / 市值&#xa;= 1 / PE" vertex="1">
+          <mxGeometry height="70" width="180" x="60" y="310" as="geometry" />
         </mxCell>
-        <mxCell id="lUxX8NhGaM9syOrfwbrv-11" style="endArrow=block;rounded=0;html=1;" edge="1" parent="1" source="lUxX8NhGaM9syOrfwbrv-2" target="lUxX8NhGaM9syOrfwbrv-10">
+        <mxCell id="lUxX8NhGaM9syOrfwbrv-11" edge="1" parent="1" source="lUxX8NhGaM9syOrfwbrv-2" style="endArrow=block;rounded=0;html=1;" target="lUxX8NhGaM9syOrfwbrv-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lUxX8NhGaM9syOrfwbrv-12" value="盈利与资产指标" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1f5e0;strokeColor=#82b366;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="780" y="100" width="170" height="60" as="geometry" />
+        <mxCell id="lUxX8NhGaM9syOrfwbrv-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1f5e0;strokeColor=#82b366;fontSize=13;" value="盈利与资产指标" vertex="1">
+          <mxGeometry height="60" width="170" x="780" y="100" as="geometry" />
         </mxCell>
-        <mxCell id="lUxX8NhGaM9syOrfwbrv-13" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;" edge="1" parent="1" source="lUxX8NhGaM9syOrfwbrv-1" target="lUxX8NhGaM9syOrfwbrv-12">
+        <mxCell id="lUxX8NhGaM9syOrfwbrv-13" edge="1" parent="1" source="lUxX8NhGaM9syOrfwbrv-1" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;" target="lUxX8NhGaM9syOrfwbrv-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lUxX8NhGaM9syOrfwbrv-14" value="净利润" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#82b366;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="990" y="40" width="90" height="40" as="geometry" />
+        <mxCell id="lUxX8NhGaM9syOrfwbrv-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#82b366;fontSize=12;" value="净利润" vertex="1">
+          <mxGeometry height="40" width="90" x="990" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="lUxX8NhGaM9syOrfwbrv-15" style="endArrow=block;rounded=0;html=1;" edge="1" parent="1" source="lUxX8NhGaM9syOrfwbrv-12" target="lUxX8NhGaM9syOrfwbrv-14">
+        <mxCell id="lUxX8NhGaM9syOrfwbrv-15" edge="1" parent="1" source="lUxX8NhGaM9syOrfwbrv-12" style="endArrow=block;rounded=0;html=1;" target="lUxX8NhGaM9syOrfwbrv-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lUxX8NhGaM9syOrfwbrv-16" value="营业收入" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#82b366;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="990" y="90" width="90" height="40" as="geometry" />
+        <mxCell id="lUxX8NhGaM9syOrfwbrv-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#82b366;fontSize=12;" value="营业收入" vertex="1">
+          <mxGeometry height="40" width="90" x="990" y="90" as="geometry" />
         </mxCell>
-        <mxCell id="lUxX8NhGaM9syOrfwbrv-17" style="endArrow=block;rounded=0;html=1;" edge="1" parent="1" source="lUxX8NhGaM9syOrfwbrv-12" target="lUxX8NhGaM9syOrfwbrv-16">
+        <mxCell id="lUxX8NhGaM9syOrfwbrv-17" edge="1" parent="1" source="lUxX8NhGaM9syOrfwbrv-12" style="endArrow=block;rounded=0;html=1;" target="lUxX8NhGaM9syOrfwbrv-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lUxX8NhGaM9syOrfwbrv-18" value="净资产&#xa;(股东权益)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#82b366;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="990" y="140" width="110" height="50" as="geometry" />
+        <mxCell id="lUxX8NhGaM9syOrfwbrv-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#82b366;fontSize=12;" value="净资产&#xa;(股东权益)" vertex="1">
+          <mxGeometry height="50" width="110" x="990" y="140" as="geometry" />
         </mxCell>
-        <mxCell id="lUxX8NhGaM9syOrfwbrv-19" style="endArrow=block;rounded=0;html=1;" edge="1" parent="1" source="lUxX8NhGaM9syOrfwbrv-12" target="lUxX8NhGaM9syOrfwbrv-18">
+        <mxCell id="lUxX8NhGaM9syOrfwbrv-19" edge="1" parent="1" source="lUxX8NhGaM9syOrfwbrv-12" style="endArrow=block;rounded=0;html=1;" target="lUxX8NhGaM9syOrfwbrv-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lUxX8NhGaM9syOrfwbrv-20" value="EPS 每股收益&#xa;= 净利润 / 总股本" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#82b366;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="990" y="200" width="180" height="60" as="geometry" />
+        <mxCell id="lUxX8NhGaM9syOrfwbrv-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#82b366;fontSize=12;" value="EPS 每股收益&#xa;= 净利润 / 总股本" vertex="1">
+          <mxGeometry height="60" width="180" x="990" y="200" as="geometry" />
         </mxCell>
-        <mxCell id="lUxX8NhGaM9syOrfwbrv-21" style="endArrow=block;rounded=0;html=1;" edge="1" parent="1" source="lUxX8NhGaM9syOrfwbrv-12" target="lUxX8NhGaM9syOrfwbrv-20">
+        <mxCell id="lUxX8NhGaM9syOrfwbrv-21" edge="1" parent="1" source="lUxX8NhGaM9syOrfwbrv-12" style="endArrow=block;rounded=0;html=1;" target="lUxX8NhGaM9syOrfwbrv-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lUxX8NhGaM9syOrfwbrv-22" value="净利率&#xa;= 净利润 / 营收" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#82b366;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="990" y="270" width="160" height="60" as="geometry" />
+        <mxCell id="lUxX8NhGaM9syOrfwbrv-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#82b366;fontSize=12;" value="净利率&#xa;= 净利润 / 营收" vertex="1">
+          <mxGeometry height="60" width="160" x="990" y="270" as="geometry" />
         </mxCell>
-        <mxCell id="lUxX8NhGaM9syOrfwbrv-23" style="endArrow=block;rounded=0;html=1;" edge="1" parent="1" source="lUxX8NhGaM9syOrfwbrv-12" target="lUxX8NhGaM9syOrfwbrv-22">
+        <mxCell id="lUxX8NhGaM9syOrfwbrv-23" edge="1" parent="1" source="lUxX8NhGaM9syOrfwbrv-12" style="endArrow=block;rounded=0;html=1;" target="lUxX8NhGaM9syOrfwbrv-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lUxX8NhGaM9syOrfwbrv-24" value="ROE 股东权益回报率" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="780" y="385" width="200" height="60" as="geometry" />
+        <mxCell id="lUxX8NhGaM9syOrfwbrv-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=13;" value="ROE 股东权益回报率" vertex="1">
+          <mxGeometry height="60" width="200" x="780" y="385" as="geometry" />
         </mxCell>
-        <mxCell id="lUxX8NhGaM9syOrfwbrv-25" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;" edge="1" parent="1" source="lUxX8NhGaM9syOrfwbrv-1" target="lUxX8NhGaM9syOrfwbrv-24">
+        <mxCell id="lUxX8NhGaM9syOrfwbrv-25" edge="1" parent="1" source="lUxX8NhGaM9syOrfwbrv-1" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;" target="lUxX8NhGaM9syOrfwbrv-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lUxX8NhGaM9syOrfwbrv-26" value="定义：&#xa;ROE = 净利润 / 净资产" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fbe4e6;strokeColor=#b85450;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="360" width="190" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="lUxX8NhGaM9syOrfwbrv-27" style="endArrow=block;rounded=0;html=1;" edge="1" parent="1" source="lUxX8NhGaM9syOrfwbrv-24" target="lUxX8NhGaM9syOrfwbrv-26">
+        <mxCell id="qvAUuuZI1gwZsoqJ2Zli-4" edge="1" parent="1" source="lUxX8NhGaM9syOrfwbrv-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qvAUuuZI1gwZsoqJ2Zli-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lUxX8NhGaM9syOrfwbrv-28" value="含义：股东投入的&#xa;每 1 元净资产，&#xa;一年带来多少利润" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fbe4e6;strokeColor=#b85450;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="430" width="200" height="80" as="geometry" />
+        <mxCell id="lUxX8NhGaM9syOrfwbrv-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fbe4e6;strokeColor=#b85450;fontSize=12;" value="定义：&#xa;ROE = 净利润 / 净资产" vertex="1">
+          <mxGeometry height="60" width="190" x="1040" y="360" as="geometry" />
         </mxCell>
-        <mxCell id="lUxX8NhGaM9syOrfwbrv-29" style="endArrow=block;rounded=0;html=1;" edge="1" parent="1" source="lUxX8NhGaM9syOrfwbrv-24" target="lUxX8NhGaM9syOrfwbrv-28">
+        <mxCell id="lUxX8NhGaM9syOrfwbrv-27" edge="1" parent="1" source="lUxX8NhGaM9syOrfwbrv-24" style="endArrow=block;rounded=0;html=1;" target="lUxX8NhGaM9syOrfwbrv-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lUxX8NhGaM9syOrfwbrv-30" value="关键关系式" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e6e6e6;strokeColor=#666666;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="295" y="425" width="140" height="60" as="geometry" />
+        <mxCell id="lUxX8NhGaM9syOrfwbrv-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fbe4e6;strokeColor=#b85450;fontSize=12;" value="含义：股东投入的&#xa;每 1 元净资产，&#xa;一年带来多少利润" vertex="1">
+          <mxGeometry height="80" width="200" x="1040" y="430" as="geometry" />
         </mxCell>
-        <mxCell id="lUxX8NhGaM9syOrfwbrv-31" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;" edge="1" parent="1" source="lUxX8NhGaM9syOrfwbrv-1" target="lUxX8NhGaM9syOrfwbrv-30">
+        <mxCell id="lUxX8NhGaM9syOrfwbrv-29" edge="1" parent="1" source="lUxX8NhGaM9syOrfwbrv-24" style="endArrow=block;rounded=0;html=1;" target="lUxX8NhGaM9syOrfwbrv-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lUxX8NhGaM9syOrfwbrv-32" value="PE = PS ÷ 净利率" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="50" y="410" width="140" height="40" as="geometry" />
+        <mxCell id="lUxX8NhGaM9syOrfwbrv-30" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e6e6e6;strokeColor=#666666;fontSize=13;" value="关键关系式" vertex="1">
+          <mxGeometry height="60" width="140" x="295" y="425" as="geometry" />
         </mxCell>
-        <mxCell id="lUxX8NhGaM9syOrfwbrv-33" style="endArrow=block;rounded=0;html=1;" edge="1" parent="1" source="lUxX8NhGaM9syOrfwbrv-30" target="lUxX8NhGaM9syOrfwbrv-32">
+        <mxCell id="lUxX8NhGaM9syOrfwbrv-31" edge="1" parent="1" source="lUxX8NhGaM9syOrfwbrv-1" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;" target="lUxX8NhGaM9syOrfwbrv-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lUxX8NhGaM9syOrfwbrv-34" value="PE = PB ÷ ROE" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="50" y="460" width="140" height="40" as="geometry" />
+        <mxCell id="lUxX8NhGaM9syOrfwbrv-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;fontSize=12;" value="PE = PS ÷ 净利率" vertex="1">
+          <mxGeometry height="40" width="140" x="50" y="410" as="geometry" />
         </mxCell>
-        <mxCell id="lUxX8NhGaM9syOrfwbrv-35" style="endArrow=block;rounded=0;html=1;" edge="1" parent="1" source="lUxX8NhGaM9syOrfwbrv-30" target="lUxX8NhGaM9syOrfwbrv-34">
+        <mxCell id="lUxX8NhGaM9syOrfwbrv-33" edge="1" parent="1" source="lUxX8NhGaM9syOrfwbrv-30" style="endArrow=block;rounded=0;html=1;" target="lUxX8NhGaM9syOrfwbrv-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lUxX8NhGaM9syOrfwbrv-36" value="E/P = ROE ÷ PB" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="50" y="510" width="140" height="40" as="geometry" />
+        <mxCell id="lUxX8NhGaM9syOrfwbrv-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;fontSize=12;" value="PE = PB ÷ ROE" vertex="1">
+          <mxGeometry height="40" width="140" x="50" y="460" as="geometry" />
         </mxCell>
-        <mxCell id="lUxX8NhGaM9syOrfwbrv-37" style="endArrow=block;rounded=0;html=1;" edge="1" parent="1" source="lUxX8NhGaM9syOrfwbrv-30" target="lUxX8NhGaM9syOrfwbrv-36">
+        <mxCell id="lUxX8NhGaM9syOrfwbrv-35" edge="1" parent="1" source="lUxX8NhGaM9syOrfwbrv-30" style="endArrow=block;rounded=0;html=1;" target="lUxX8NhGaM9syOrfwbrv-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lUxX8NhGaM9syOrfwbrv-38" value="加密货币类比指标" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0e1ff;strokeColor=#9673a6;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="500" y="520" width="180" height="60" as="geometry" />
+        <mxCell id="lUxX8NhGaM9syOrfwbrv-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;fontSize=12;" value="E/P = ROE ÷ PB" vertex="1">
+          <mxGeometry height="40" width="140" x="50" y="510" as="geometry" />
         </mxCell>
-        <mxCell id="lUxX8NhGaM9syOrfwbrv-39" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;" edge="1" parent="1" source="lUxX8NhGaM9syOrfwbrv-1" target="lUxX8NhGaM9syOrfwbrv-38">
+        <mxCell id="lUxX8NhGaM9syOrfwbrv-37" edge="1" parent="1" source="lUxX8NhGaM9syOrfwbrv-30" style="endArrow=block;rounded=0;html=1;" target="lUxX8NhGaM9syOrfwbrv-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lUxX8NhGaM9syOrfwbrv-40" value="类 PS_fee&#xa;= 市值 / 协议收入&#xa;(如 ETH 的 Gas 费)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f7ecff;strokeColor=#9673a6;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="720" y="520" width="210" height="70" as="geometry" />
+        <mxCell id="lUxX8NhGaM9syOrfwbrv-38" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0e1ff;strokeColor=#9673a6;fontSize=13;" value="加密货币类比指标" vertex="1">
+          <mxGeometry height="60" width="180" x="500" y="520" as="geometry" />
         </mxCell>
-        <mxCell id="lUxX8NhGaM9syOrfwbrv-41" style="endArrow=block;rounded=0;html=1;" edge="1" parent="1" source="lUxX8NhGaM9syOrfwbrv-38" target="lUxX8NhGaM9syOrfwbrv-40">
+        <mxCell id="lUxX8NhGaM9syOrfwbrv-39" edge="1" parent="1" source="lUxX8NhGaM9syOrfwbrv-1" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;" target="lUxX8NhGaM9syOrfwbrv-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lUxX8NhGaM9syOrfwbrv-42" value="P/TVL&#xa;= 市值 / TVL&#xa;(锁仓资产规模)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f7ecff;strokeColor=#9673a6;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="720" y="600" width="210" height="70" as="geometry" />
+        <mxCell id="lUxX8NhGaM9syOrfwbrv-40" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f7ecff;strokeColor=#9673a6;fontSize=12;" value="类 PS_fee&#xa;= 市值 / 协议收入&#xa;(如 ETH 的 Gas 费)" vertex="1">
+          <mxGeometry height="70" width="210" x="720" y="520" as="geometry" />
         </mxCell>
-        <mxCell id="lUxX8NhGaM9syOrfwbrv-43" style="endArrow=block;rounded=0;html=1;" edge="1" parent="1" source="lUxX8NhGaM9syOrfwbrv-38" target="lUxX8NhGaM9syOrfwbrv-42">
+        <mxCell id="lUxX8NhGaM9syOrfwbrv-41" edge="1" parent="1" source="lUxX8NhGaM9syOrfwbrv-38" style="endArrow=block;rounded=0;html=1;" target="lUxX8NhGaM9syOrfwbrv-40">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lUxX8NhGaM9syOrfwbrv-42" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f7ecff;strokeColor=#9673a6;fontSize=12;" value="P/TVL&#xa;= 市值 / TVL&#xa;(锁仓资产规模)" vertex="1">
+          <mxGeometry height="70" width="210" x="720" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="lUxX8NhGaM9syOrfwbrv-43" edge="1" parent="1" source="lUxX8NhGaM9syOrfwbrv-38" style="endArrow=block;rounded=0;html=1;" target="lUxX8NhGaM9syOrfwbrv-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qvAUuuZI1gwZsoqJ2Zli-6" edge="1" parent="1" source="qvAUuuZI1gwZsoqJ2Zli-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="qvAUuuZI1gwZsoqJ2Zli-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qvAUuuZI1gwZsoqJ2Zli-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fbe4e6;strokeColor=#b85450;fontSize=12;" value="长期来看，ROE 是股价上涨的“发动机”；短期来看，两者可能毫无关系。" vertex="1">
+          <mxGeometry height="60" width="190" x="1275" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="qvAUuuZI1gwZsoqJ2Zli-8" edge="1" parent="1" source="qvAUuuZI1gwZsoqJ2Zli-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="qvAUuuZI1gwZsoqJ2Zli-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qvAUuuZI1gwZsoqJ2Zli-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fbe4e6;strokeColor=#b85450;fontSize=12;" value="巴菲特有句名言：“长期来看，股票的回报率很难超过其 ROE。”" vertex="1">
+          <mxGeometry height="60" width="190" x="1275" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="qvAUuuZI1gwZsoqJ2Zli-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fbe4e6;strokeColor=#b85450;fontSize=12;" value="&lt;div&gt;现实中的“异常”：为什么银行 ROE 不低，股价却不涨？&lt;/div&gt;&lt;div&gt;你可能会问：“工商银行 ROE 有 10%-11%，比很多科技股都稳，为什么股价常年趴着不动，甚至破净（PB &amp;lt; 1）？”&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;这就涉及到了 ROE 和股价关系的第三层——预期与风险。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;股价公式其实是：&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;股价=现在的净资产×市场情绪 (PB)&lt;/div&gt;&lt;div&gt;虽然工行的“现在的净资产”每年都在靠 ROE 稳定增长（涨 7%），但**“市场情绪”在不断变差**。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;以前： 市场觉得银行 ROE 能维持 20%，给它 2 倍 PB。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;现在： 市场担心坏账、担心让利、担心 NIM 挤压，觉得**“明年的 ROE 会暴跌”**（虽然还没跌，但大家害怕会跌）。于是，市场把 PB 砸到了 0.5 倍。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;这种现象叫“杀估值”： 虽然你赚的钱变多了（净资产涨了），但大家觉得你的钱“不值钱”了（估值跌了）。 股价没涨，是因为“净资产的增长”被“估值的下跌”抵消了。&lt;/div&gt;" vertex="1">
+          <mxGeometry height="445" width="240" x="1555" y="277.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
