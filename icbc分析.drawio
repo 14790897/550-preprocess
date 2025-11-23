@@ -1,9 +1,135 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.1.0">
   <diagram name="Page-1" id="bs2kuLrOZx6myLMDfTZ4">
-    <mxGraphModel>
+    <mxGraphModel dx="813" dy="368" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="10" pageHeight="10" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="jMFVgNWHsI33b4ClcvHH-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="为什么在 A 股普通人可以投资工商银行" vertex="1">
+          <mxGeometry height="70" width="320" x="260" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="jMFVgNWHsI33b4ClcvHH-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#ffffff;strokeColor=#000000;" value="① 工商银行是中国最赚钱的公司&#xa;- 盈利规模大、稳定&#xa;- 盈利能力是投资安全边际" vertex="1">
+          <mxGeometry height="90" width="260" x="60" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="jMFVgNWHsI33b4ClcvHH-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#ffffff;strokeColor=#000000;" value="② 分红率高（约 30%）&#xa;- 对股东长期现金回报好" vertex="1">
+          <mxGeometry height="90" width="260" x="320" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="jMFVgNWHsI33b4ClcvHH-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#ffffff;strokeColor=#000000;" value="③ 中国发展前景 &amp; 银行是金融核心&#xa;- 体系性风险相对可控&#xa;- 相比其他科技股，政策风险更低" vertex="1">
+          <mxGeometry height="100" width="260" x="580" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="jMFVgNWHsI33b4ClcvHH-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#f5f5f5;strokeColor=#666666;" value="扩张空间有限&#xa;- 已是超级大行&#xa;- 不需要像高速成长企业那样大量再投资" vertex="1">
+          <mxGeometry height="80" width="260" x="320" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="jMFVgNWHsI33b4ClcvHH-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#f5f5f5;strokeColor=#666666;" value="国家是最重要股东&#xa;- 需要稳定的大量现金流&#xa;- 政策上鼓励大行保持高分红率" vertex="1">
+          <mxGeometry height="80" width="260" x="320" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="jMFVgNWHsI33b4ClcvHH-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#f5f5f5;strokeColor=#666666;" value="银行是金融体系核心&#xa;- 国家会重点维护稳定&#xa;- 出现系统性问题的概率相对较低" vertex="1">
+          <mxGeometry height="80" width="260" x="580" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="jMFVgNWHsI33b4ClcvHH-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#f5f5f5;strokeColor=#666666;" value="对比：科技企业&#xa;- 受政策、监管、行业周期影响大&#xa;- 业绩和估值波动更剧烈" vertex="1">
+          <mxGeometry height="80" width="260" x="580" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="jMFVgNWHsI33b4ClcvHH-12" edge="1" parent="1" source="jMFVgNWHsI33b4ClcvHH-4" style="endArrow=block;html=1;strokeColor=#000000;" target="jMFVgNWHsI33b4ClcvHH-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jMFVgNWHsI33b4ClcvHH-13" edge="1" parent="1" source="jMFVgNWHsI33b4ClcvHH-4" style="endArrow=block;html=1;strokeColor=#000000;" target="jMFVgNWHsI33b4ClcvHH-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jMFVgNWHsI33b4ClcvHH-14" edge="1" parent="1" source="jMFVgNWHsI33b4ClcvHH-4" style="endArrow=block;html=1;strokeColor=#000000;" target="jMFVgNWHsI33b4ClcvHH-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jMFVgNWHsI33b4ClcvHH-15" edge="1" parent="1" source="jMFVgNWHsI33b4ClcvHH-6" style="endArrow=block;html=1;strokeColor=#666666;" target="jMFVgNWHsI33b4ClcvHH-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jMFVgNWHsI33b4ClcvHH-16" edge="1" parent="1" source="jMFVgNWHsI33b4ClcvHH-8" style="endArrow=block;html=1;strokeColor=#666666;" target="jMFVgNWHsI33b4ClcvHH-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jMFVgNWHsI33b4ClcvHH-17" edge="1" parent="1" source="jMFVgNWHsI33b4ClcvHH-7" style="endArrow=block;html=1;strokeColor=#666666;" target="jMFVgNWHsI33b4ClcvHH-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jMFVgNWHsI33b4ClcvHH-18" edge="1" parent="1" source="jMFVgNWHsI33b4ClcvHH-10" style="endArrow=block;html=1;strokeColor=#666666;" target="jMFVgNWHsI33b4ClcvHH-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jMFVgNWHsI33b4ClcvHH-52" edge="1" parent="1" source="jMFVgNWHsI33b4ClcvHH-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="jMFVgNWHsI33b4ClcvHH-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jMFVgNWHsI33b4ClcvHH-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="为什么在 A 股普通人可以投资工商银行" vertex="1">
+          <mxGeometry height="70" width="320" x="260" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="jMFVgNWHsI33b4ClcvHH-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#ffffff;strokeColor=#000000;" value="① 工商银行是中国最赚钱的公司&#xa;- 盈利规模大、稳定&#xa;- 盈利能力是投资安全边际" vertex="1">
+          <mxGeometry height="90" width="260" x="60" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="jMFVgNWHsI33b4ClcvHH-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#ffffff;strokeColor=#000000;" value="② 分红率高（约 30%）&#xa;- 对股东长期现金回报好" vertex="1">
+          <mxGeometry height="90" width="260" x="320" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="jMFVgNWHsI33b4ClcvHH-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#ffffff;strokeColor=#000000;" value="③ 中国发展前景 &amp; 银行是金融核心&#xa;- 体系性风险相对可控&#xa;- 相比其他科技股，政策风险更低" vertex="1">
+          <mxGeometry height="100" width="260" x="580" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="jMFVgNWHsI33b4ClcvHH-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#f5f5f5;strokeColor=#666666;" value="扩张空间有限&#xa;- 已是超级大行&#xa;- 不需要像高速成长企业那样大量再投资" vertex="1">
+          <mxGeometry height="80" width="260" x="320" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="jMFVgNWHsI33b4ClcvHH-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#f5f5f5;strokeColor=#666666;" value="国家是最重要股东&#xa;- 需要稳定的大量现金流&#xa;- 政策上鼓励大行保持高分红率" vertex="1">
+          <mxGeometry height="80" width="260" x="320" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="jMFVgNWHsI33b4ClcvHH-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#f5f5f5;strokeColor=#666666;" value="银行是金融体系核心&#xa;- 国家会重点维护稳定&#xa;- 出现系统性问题的概率相对较低" vertex="1">
+          <mxGeometry height="80" width="260" x="580" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="jMFVgNWHsI33b4ClcvHH-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#f5f5f5;strokeColor=#666666;" value="对比：科技企业&#xa;- 受政策、监管、行业周期影响大&#xa;- 业绩和估值波动更剧烈" vertex="1">
+          <mxGeometry height="80" width="260" x="580" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="jMFVgNWHsI33b4ClcvHH-27" edge="1" parent="1" source="jMFVgNWHsI33b4ClcvHH-19" style="endArrow=block;html=1;strokeColor=#000000;" target="jMFVgNWHsI33b4ClcvHH-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jMFVgNWHsI33b4ClcvHH-28" edge="1" parent="1" source="jMFVgNWHsI33b4ClcvHH-19" style="endArrow=block;html=1;strokeColor=#000000;" target="jMFVgNWHsI33b4ClcvHH-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jMFVgNWHsI33b4ClcvHH-29" edge="1" parent="1" source="jMFVgNWHsI33b4ClcvHH-19" style="endArrow=block;html=1;strokeColor=#000000;" target="jMFVgNWHsI33b4ClcvHH-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jMFVgNWHsI33b4ClcvHH-30" edge="1" parent="1" source="jMFVgNWHsI33b4ClcvHH-21" style="endArrow=block;html=1;strokeColor=#666666;" target="jMFVgNWHsI33b4ClcvHH-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jMFVgNWHsI33b4ClcvHH-31" edge="1" parent="1" source="jMFVgNWHsI33b4ClcvHH-23" style="endArrow=block;html=1;strokeColor=#666666;" target="jMFVgNWHsI33b4ClcvHH-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jMFVgNWHsI33b4ClcvHH-32" edge="1" parent="1" source="jMFVgNWHsI33b4ClcvHH-22" style="endArrow=block;html=1;strokeColor=#666666;" target="jMFVgNWHsI33b4ClcvHH-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jMFVgNWHsI33b4ClcvHH-33" edge="1" parent="1" source="jMFVgNWHsI33b4ClcvHH-25" style="endArrow=block;html=1;strokeColor=#666666;" target="jMFVgNWHsI33b4ClcvHH-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jMFVgNWHsI33b4ClcvHH-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#ffe6cc;strokeColor=#d79b00;" value="补充观点：安全边际、风险与估值位置" vertex="1">
+          <mxGeometry height="60" width="600" x="945" y="125" as="geometry" />
+        </mxCell>
+        <mxCell id="jMFVgNWHsI33b4ClcvHH-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#ffffff;strokeColor=#d79b00;" value="补充一：极高的安全边际&#xa;- 长期 PB 低于 1（破净）&#xa;- 曾经约 0.6 左右，当前约 0.7+&#xa;- 资产一块钱，股价打折&#xa;- 为坏账风险提供折扣缓冲" vertex="1">
+          <mxGeometry height="100" width="320" x="885" y="205" as="geometry" />
+        </mxCell>
+        <mxCell id="jMFVgNWHsI33b4ClcvHH-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#fff2cc;strokeColor=#d6b656;" value="补充二：向实体经济让利的代价&#xa;- 利差收窄（NIM 挤压）&#xa;- 降贷款利率支持实体经济&#xa;- 利润增速放缓，长期可能只有 1%–3%&#xa;- 大象型：吞吐量大但毛利变薄" vertex="1">
+          <mxGeometry height="110" width="320" x="1245" y="205" as="geometry" />
+        </mxCell>
+        <mxCell id="jMFVgNWHsI33b4ClcvHH-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#e8fdf5;strokeColor=#82b366;" value="补充三：低波动性，对普通人友好&#xa;- 股价波动小，日内波动通常在 1% 左右&#xa;- 不像高弹性科技股那样剧烈涨跌&#xa;- 有利于“拿得住”，实现长期复利" vertex="1">
+          <mxGeometry height="100" width="320" x="885" y="325" as="geometry" />
+        </mxCell>
+        <mxCell id="jMFVgNWHsI33b4ClcvHH-38" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#fde9d9;strokeColor=#b85450;" value="补充四：大而不倒的隐形代价&#xa;- 系统性地位高，不太可能出大问题&#xa;- 但地方债、地产等风险可能需要大行兜底&#xa;- 资产质量部分“黑箱”&#xa;- 市场用低估值给潜在背锅风险定价" vertex="1">
+          <mxGeometry height="110" width="320" x="1245" y="335" as="geometry" />
+        </mxCell>
+        <mxCell id="jMFVgNWHsI33b4ClcvHH-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;div&gt;根据2025年的数据，平均PE约为7.15倍，而当前PE达到8.04倍，已经超出年度平均水平。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;市净率方面，PB 0.77倍处于历史极高分位（99.31%分位），这意味着当前估值在历史上较少见。根据历史数据，工商银行的平均PB水平约为0.59-0.60倍，中位数约为0.57倍。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;- 当前估值不贵，但也并非历史最便宜" vertex="1">
+          <mxGeometry height="110" width="440" x="1025" y="465" as="geometry" />
+        </mxCell>
+        <mxCell id="jMFVgNWHsI33b4ClcvHH-41" edge="1" parent="1" source="jMFVgNWHsI33b4ClcvHH-34" style="endArrow=block;html=1;strokeColor=#d79b00;" target="jMFVgNWHsI33b4ClcvHH-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jMFVgNWHsI33b4ClcvHH-42" edge="1" parent="1" source="jMFVgNWHsI33b4ClcvHH-34" style="endArrow=block;html=1;strokeColor=#d79b00;" target="jMFVgNWHsI33b4ClcvHH-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jMFVgNWHsI33b4ClcvHH-43" edge="1" parent="1" source="jMFVgNWHsI33b4ClcvHH-34" style="endArrow=block;html=1;strokeColor=#82b366;" target="jMFVgNWHsI33b4ClcvHH-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jMFVgNWHsI33b4ClcvHH-44" edge="1" parent="1" source="jMFVgNWHsI33b4ClcvHH-34" style="endArrow=block;html=1;strokeColor=#b85450;" target="jMFVgNWHsI33b4ClcvHH-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jMFVgNWHsI33b4ClcvHH-45" edge="1" parent="1" source="jMFVgNWHsI33b4ClcvHH-34" style="endArrow=block;html=1;strokeColor=#9673a6;" target="jMFVgNWHsI33b4ClcvHH-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
