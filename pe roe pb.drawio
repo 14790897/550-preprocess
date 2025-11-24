@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.1.1">
   <diagram name="财务与估值指标思维导图" id="ufsj-q_5ipa0hjQiidSy">
-    <mxGraphModel dx="1715" dy="930" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="10" pageHeight="10" math="1" shadow="0">
+    <mxGraphModel dx="2051" dy="1118" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="10" pageHeight="10" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -155,7 +155,7 @@
           <mxGeometry height="445" width="240" x="1695" y="357.5" as="geometry" />
         </mxCell>
         <mxCell id="a99eCsw-vh4daBJUyWcD-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FBE4E6;" value="$$&lt;br&gt;&lt;br&gt;\text{ROE}&lt;br&gt;&lt;br&gt;= \frac{\text{净利润}}{\text{净资产}}&lt;br&gt;&lt;br&gt;= \frac{\text{净利润}}{\text{营业收入}}&lt;br&gt;&lt;br&gt;\times \frac{\text{营业收入}}{\text{总资产}}&lt;br&gt;&lt;br&gt;\times \frac{\text{总资产}}{\text{净资产}}&lt;br&gt;&lt;br&gt;$$&amp;nbsp;&lt;div&gt;盈利能力 × 资产效率 × 杠杆&lt;/div&gt;" vertex="1">
-          <mxGeometry height="90" width="345" x="1410" y="260" as="geometry" />
+          <mxGeometry height="90" width="300" x="1410" y="260" as="geometry" />
         </mxCell>
         <mxCell id="a99eCsw-vh4daBJUyWcD-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=13;" value="回报能力" vertex="1">
           <mxGeometry height="45" width="90" x="780" y="480" as="geometry" />
@@ -187,7 +187,7 @@
         <mxCell id="a99eCsw-vh4daBJUyWcD-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F3FFC7;" value="资产负债率&lt;div&gt;=总负债 / 总资产&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="525" y="-35" as="geometry" />
         </mxCell>
-        <mxCell id="a99eCsw-vh4daBJUyWcD-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="分红率&lt;div&gt;=分红金额 / 总利润&lt;/div&gt;" vertex="1">
+        <mxCell id="a99eCsw-vh4daBJUyWcD-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="分红率&amp;nbsp;&lt;div&gt;= 现金分红总额 / 归母净利润&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="85" y="520" as="geometry" />
         </mxCell>
       </root>
