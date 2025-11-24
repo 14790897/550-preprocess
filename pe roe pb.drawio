@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.1.1">
   <diagram name="财务与估值指标思维导图" id="ufsj-q_5ipa0hjQiidSy">
-    <mxGraphModel dx="1479" dy="829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="10" pageHeight="10" math="1" shadow="0">
+    <mxGraphModel dx="1430" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="10" pageHeight="10" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -23,6 +23,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="a99eCsw-vh4daBJUyWcD-33" edge="1" parent="1" source="lUxX8NhGaM9syOrfwbrv-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="a99eCsw-vh4daBJUyWcD-32" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a99eCsw-vh4daBJUyWcD-35" edge="1" parent="1" source="lUxX8NhGaM9syOrfwbrv-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="a99eCsw-vh4daBJUyWcD-34" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lUxX8NhGaM9syOrfwbrv-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12;" value="PE 市盈率&#xa;= 市值 / 净利润&#xa;= 股价 / EPS" vertex="1">
@@ -107,22 +110,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lUxX8NhGaM9syOrfwbrv-30" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e6e6e6;strokeColor=#666666;fontSize=13;" value="关系式(不重要)" vertex="1">
-          <mxGeometry height="60" width="140" x="-115" y="60" as="geometry" />
+          <mxGeometry height="60" width="140" x="-112" y="200" as="geometry" />
         </mxCell>
         <mxCell id="a99eCsw-vh4daBJUyWcD-11" edge="1" parent="1" source="lUxX8NhGaM9syOrfwbrv-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="lUxX8NhGaM9syOrfwbrv-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lUxX8NhGaM9syOrfwbrv-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;fontSize=12;" value="PE = PS ÷ 净利率" vertex="1">
-          <mxGeometry height="40" width="140" x="-120" y="170" as="geometry" />
+          <mxGeometry height="40" width="140" x="-117" y="310" as="geometry" />
         </mxCell>
         <mxCell id="a99eCsw-vh4daBJUyWcD-13" edge="1" parent="1" source="lUxX8NhGaM9syOrfwbrv-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="lUxX8NhGaM9syOrfwbrv-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lUxX8NhGaM9syOrfwbrv-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;fontSize=12;" value="PE = PB ÷ ROE" vertex="1">
-          <mxGeometry height="40" width="140" x="-120" y="225" as="geometry" />
+          <mxGeometry height="40" width="140" x="-117" y="365" as="geometry" />
         </mxCell>
         <mxCell id="lUxX8NhGaM9syOrfwbrv-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#666666;fontSize=12;" value="E/P = ROE ÷ PB" vertex="1">
-          <mxGeometry height="40" width="140" x="-120" y="285" as="geometry" />
+          <mxGeometry height="40" width="140" x="-117" y="425" as="geometry" />
         </mxCell>
         <mxCell id="lUxX8NhGaM9syOrfwbrv-38" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0e1ff;strokeColor=#9673a6;fontSize=13;" value="加密货币类比指标" vertex="1">
           <mxGeometry height="60" width="180" x="485" y="1070" as="geometry" />
@@ -194,7 +197,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="a99eCsw-vh4daBJUyWcD-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12;" value="https://www.csindex.com.cn/#/dataService/PERatio?use_xbridge3=true&amp;amp;loader_name=forest&amp;amp;need_sec_link=1&amp;amp;sec_link_scene=im" vertex="1">
-          <mxGeometry height="80" width="430" x="-65" y="-70" as="geometry" />
+          <mxGeometry height="40" width="430" x="-65" y="-30" as="geometry" />
+        </mxCell>
+        <mxCell id="a99eCsw-vh4daBJUyWcD-34" parent="1" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;$$\text{PE} \approx \frac{d}{k - r b} $$&lt;/p&gt;" vertex="1">
+          <mxGeometry height="50" width="100" x="-75" y="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
