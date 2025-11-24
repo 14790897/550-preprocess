@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.1.1">
   <diagram name="财务与估值指标思维导图" id="ufsj-q_5ipa0hjQiidSy">
-    <mxGraphModel dx="1253" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="10" pageHeight="10" math="1" shadow="0">
+    <mxGraphModel dx="2008" dy="893" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="10" pageHeight="10" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -109,8 +109,11 @@
         <mxCell id="lUxX8NhGaM9syOrfwbrv-29" edge="1" parent="1" source="lUxX8NhGaM9syOrfwbrv-24" style="endArrow=block;rounded=0;html=1;" target="lUxX8NhGaM9syOrfwbrv-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="a99eCsw-vh4daBJUyWcD-39" edge="1" parent="1" source="lUxX8NhGaM9syOrfwbrv-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="lUxX8NhGaM9syOrfwbrv-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lUxX8NhGaM9syOrfwbrv-30" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e6e6e6;strokeColor=#666666;fontSize=13;" value="关系式" vertex="1">
-          <mxGeometry height="60" width="140" x="-112" y="200" as="geometry" />
+          <mxGeometry height="60" width="140" x="-115" y="225" as="geometry" />
         </mxCell>
         <mxCell id="a99eCsw-vh4daBJUyWcD-11" edge="1" parent="1" source="lUxX8NhGaM9syOrfwbrv-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="lUxX8NhGaM9syOrfwbrv-34">
           <mxGeometry relative="1" as="geometry" />
@@ -149,7 +152,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qvAUuuZI1gwZsoqJ2Zli-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fbe4e6;strokeColor=#b85450;fontSize=12;" value="长期来看，ROE 是股价上涨的“发动机”；短期来看，两者可能毫无关系。" vertex="1">
-          <mxGeometry height="60" width="190" x="1415" y="440" as="geometry" />
+          <mxGeometry height="60" width="190" x="1445" y="440" as="geometry" />
         </mxCell>
         <mxCell id="qvAUuuZI1gwZsoqJ2Zli-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fbe4e6;strokeColor=#b85450;fontSize=12;" value="&lt;div&gt;现实中的“异常”：为什么银行 ROE 不低，股价却不涨？&lt;/div&gt;&lt;div&gt;你可能会问：“工商银行 ROE 有 10%-11%，比很多科技股都稳，为什么股价常年趴着不动，甚至破净（PB &amp;lt; 1）？”&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;这就涉及到了 ROE 和股价关系的第三层——预期与风险。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;股价公式其实是：&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;股价=现在的净资产×市场情绪 (PB)&lt;/div&gt;&lt;div&gt;虽然工行的“现在的净资产”每年都在靠 ROE 稳定增长（涨 7%），但“市场情绪”在不断变差。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;以前： 市场觉得银行 ROE 能维持 20%，给它 2 倍 PB。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;现在： 市场担心坏账、担心让利、担心 NIM 挤压，觉得“明年的 ROE 会暴跌”（虽然还没跌，但大家害怕会跌）。于是，市场把 PB 砸到了 0.5 倍。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;这种现象叫“杀估值”： 虽然你赚的钱变多了（净资产涨了），但大家觉得你的钱“不值钱”了（估值跌了）。 股价没涨，是因为“净资产的增长”被“估值的下跌”抵消了。&lt;/div&gt;" vertex="1">
           <mxGeometry height="445" width="240" x="1710" y="355" as="geometry" />
@@ -171,9 +174,6 @@
         </mxCell>
         <mxCell id="a99eCsw-vh4daBJUyWcD-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="分红相关" vertex="1">
           <mxGeometry height="60" width="120" x="315" y="435" as="geometry" />
-        </mxCell>
-        <mxCell id="a99eCsw-vh4daBJUyWcD-10" edge="1" parent="1" source="lUxX8NhGaM9syOrfwbrv-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.532;entryY=0.009;entryDx=0;entryDy=0;entryPerimeter=0;" target="lUxX8NhGaM9syOrfwbrv-32">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="a99eCsw-vh4daBJUyWcD-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="股息率&lt;div&gt;=每股现金分红 / 当前股价&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="85" y="435" as="geometry" />
