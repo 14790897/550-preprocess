@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.1.1">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.1.1" pages="2">
   <diagram name="财务与估值指标思维导图" id="ufsj-q_5ipa0hjQiidSy">
-    <mxGraphModel dx="2008" dy="893" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="10" pageHeight="10" math="1" shadow="0">
+    <mxGraphModel dx="4928" dy="2600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="10" pageHeight="10" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -55,22 +55,13 @@
         <mxCell id="a99eCsw-vh4daBJUyWcD-44" edge="1" parent="1" source="lUxX8NhGaM9syOrfwbrv-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="a99eCsw-vh4daBJUyWcD-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="a99eCsw-vh4daBJUyWcD-46" edge="1" parent="1" source="lUxX8NhGaM9syOrfwbrv-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="a99eCsw-vh4daBJUyWcD-45" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lUxX8NhGaM9syOrfwbrv-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1f5e0;strokeColor=#82b366;fontSize=13;" value="盈利与资产指标" vertex="1">
           <mxGeometry height="60" width="170" x="780" y="100" as="geometry" />
         </mxCell>
         <mxCell id="lUxX8NhGaM9syOrfwbrv-13" edge="1" parent="1" source="lUxX8NhGaM9syOrfwbrv-1" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;" target="lUxX8NhGaM9syOrfwbrv-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="lUxX8NhGaM9syOrfwbrv-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#82b366;fontSize=12;" value="净利润" vertex="1">
-          <mxGeometry height="40" width="90" x="990" y="40" as="geometry" />
-        </mxCell>
-        <mxCell id="lUxX8NhGaM9syOrfwbrv-15" edge="1" parent="1" source="lUxX8NhGaM9syOrfwbrv-12" style="endArrow=block;rounded=0;html=1;" target="lUxX8NhGaM9syOrfwbrv-14">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="lUxX8NhGaM9syOrfwbrv-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#82b366;fontSize=12;" value="营业收入" vertex="1">
-          <mxGeometry height="40" width="90" x="990" y="90" as="geometry" />
-        </mxCell>
-        <mxCell id="lUxX8NhGaM9syOrfwbrv-17" edge="1" parent="1" source="lUxX8NhGaM9syOrfwbrv-12" style="endArrow=block;rounded=0;html=1;" target="lUxX8NhGaM9syOrfwbrv-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lUxX8NhGaM9syOrfwbrv-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#82b366;fontSize=12;" value="净资产&#xa;(股东权益)" vertex="1">
@@ -207,6 +198,83 @@
         </mxCell>
         <mxCell id="a99eCsw-vh4daBJUyWcD-43" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#82b366;fontSize=12;" value="毛利率(代表护城河)" vertex="1">
           <mxGeometry height="40" width="90" x="990" y="-10" as="geometry" />
+        </mxCell>
+        <mxCell id="a99eCsw-vh4daBJUyWcD-45" parent="1" style="whiteSpace=wrap;html=1;fontSize=13;fillColor=#e1f5e0;strokeColor=#82b366;rounded=1;" value="现金流(测谎仪)" vertex="1">
+          <mxGeometry height="60" width="120" x="1175" y="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="O7o4N0iol5nreHchQvjN" name="Page-2">
+    <mxGraphModel dx="1836" dy="-114" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="10" pageHeight="10" math="1" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dMyrrJ6eu9lxYmmp1Kkw-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" value="公司财报与关键指标总览" vertex="1">
+          <mxGeometry height="60" width="360" x="-170" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="dMyrrJ6eu9lxYmmp1Kkw-13" parent="1" style="swimlane;rounded=1;whiteSpace=wrap;html=1;strokeColor=#b85450;fillColor=#f8cecc;fontStyle=1;" value="第一步：看面子 —— 利润表 (Income Statement)" vertex="1">
+          <mxGeometry height="260" width="320" x="-505" y="905" as="geometry" />
+        </mxCell>
+        <mxCell id="dMyrrJ6eu9lxYmmp1Kkw-14" parent="dMyrrJ6eu9lxYmmp1Kkw-13" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#b85450;fillColor=#ffffff;fontSize=11;" value="营业收入：公司的“肌肉”&#xa;- 看增长率，今年比去年多不多？&#xa;- 连续下滑说明生意在萎缩。" vertex="1">
+          <mxGeometry height="70" width="300" x="10" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dMyrrJ6eu9lxYmmp1Kkw-15" parent="dMyrrJ6eu9lxYmmp1Kkw-13" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#b85450;fillColor=#ffffff;fontSize=11;" value="毛利率：公司的“护城河”&#xa;- 越高越好，代表议价能力和产品力。&#xa;- 若突然下跌，多半是价格战或成本失控。" vertex="1">
+          <mxGeometry height="70" width="300" x="10" y="105" as="geometry" />
+        </mxCell>
+        <mxCell id="dMyrrJ6eu9lxYmmp1Kkw-16" parent="dMyrrJ6eu9lxYmmp1Kkw-13" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#b85450;fillColor=#ffffff;fontSize=11;" value="扣非净利润：公司的“真本事”&#xa;- 扣掉卖楼、政府补贴等一次性收益。&#xa;- 剩下的才是主业真正赚的钱。" vertex="1">
+          <mxGeometry height="70" width="300" x="10" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="dMyrrJ6eu9lxYmmp1Kkw-17" parent="dMyrrJ6eu9lxYmmp1Kkw-13" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#b85450;fillColor=#ffffff;fontSize=11;" value="三费占比：公司的“败家程度”&#xa;- 销售费 + 管理费 + 财务费。&#xa;- 占收入比例持续上升，说明效率变低或烧钱太狠。" vertex="1">
+          <mxGeometry height="80" width="300" x="10" y="255" as="geometry" />
+        </mxCell>
+        <mxCell id="dMyrrJ6eu9lxYmmp1Kkw-18" parent="1" style="swimlane;rounded=1;whiteSpace=wrap;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;fontStyle=1;" value="第二步：看底子 —— 资产负债表 (Balance Sheet)" vertex="1">
+          <mxGeometry height="300" width="340" x="-165" y="905" as="geometry" />
+        </mxCell>
+        <mxCell id="dMyrrJ6eu9lxYmmp1Kkw-19" parent="dMyrrJ6eu9lxYmmp1Kkw-18" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#9673a6;fillColor=#ffffff;fontSize=11;" value="应收账款：就是“白条”&#xa;- 如果应收账款增速 &gt; 营收增速，要警惕。&#xa;- 货卖出去了但没收到钱，可能埋雷。" vertex="1">
+          <mxGeometry height="70" width="320" x="10" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dMyrrJ6eu9lxYmmp1Kkw-20" parent="dMyrrJ6eu9lxYmmp1Kkw-18" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#9673a6;fillColor=#ffffff;fontSize=11;" value="存货：就是“库存”&#xa;- 存货突然暴增，说明东西卖不动。&#xa;- 科技产品、食品库存积压，很容易变成垃圾。" vertex="1">
+          <mxGeometry height="70" width="320" x="10" y="105" as="geometry" />
+        </mxCell>
+        <mxCell id="dMyrrJ6eu9lxYmmp1Kkw-21" parent="dMyrrJ6eu9lxYmmp1Kkw-18" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#9673a6;fillColor=#ffffff;fontSize=11;" value="商誉：并购产生的“空气溢价”&#xa;- 商誉 / 净资产 比例太高（如 &gt; 30%）就是定时炸弹。&#xa;- 一旦减值，利润表会被砸穿。" vertex="1">
+          <mxGeometry height="70" width="320" x="10" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="dMyrrJ6eu9lxYmmp1Kkw-22" parent="dMyrrJ6eu9lxYmmp1Kkw-18" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#9673a6;fillColor=#ffffff;fontSize=11;" value="有息负债：要付利息的债&#xa;- 对比：货币资金 + 交易性金融资产 VS 有息负债。&#xa;- 理想情况：手上现金 &gt; 有息负债。&#xa;- 反过来，一旦银行抽贷，公司很危险。" vertex="1">
+          <mxGeometry height="90" width="320" x="10" y="255" as="geometry" />
+        </mxCell>
+        <mxCell id="dMyrrJ6eu9lxYmmp1Kkw-23" parent="1" style="swimlane;rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;fontStyle=1;" value="第三步：看日子 —— 现金流量表 (Cash Flow Statement)" vertex="1">
+          <mxGeometry height="320" width="340" x="205" y="905" as="geometry" />
+        </mxCell>
+        <mxCell id="dMyrrJ6eu9lxYmmp1Kkw-24" parent="dMyrrJ6eu9lxYmmp1Kkw-23" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#ffffff;fontSize=11;" value="经营性现金流净额：造血能力&#xa;- 必须长期为正，更理想是 &gt; 净利润。&#xa;- “净利润 10 亿，经营现金流 -5 亿”&#xa;  说明赚的多是“欠条”。" vertex="1">
+          <mxGeometry height="90" width="320" x="10" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dMyrrJ6eu9lxYmmp1Kkw-25" parent="dMyrrJ6eu9lxYmmp1Kkw-23" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#ffffff;fontSize=11;" value="投资活动现金流：花钱搞建设&#xa;- 通常为负：建厂、买设备、买理财。&#xa;- 如果长期为正，要小心是不是在卖资产过日子。" vertex="1">
+          <mxGeometry height="80" width="320" x="10" y="125" as="geometry" />
+        </mxCell>
+        <mxCell id="dMyrrJ6eu9lxYmmp1Kkw-26" parent="dMyrrJ6eu9lxYmmp1Kkw-23" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#ffffff;fontSize=11;" value="筹资活动现金流：靠谁过日子&#xa;- 大量“借钱 + 增发”说明靠输血续命。&#xa;- 稳定“分红支出”说明在回报股东。" vertex="1">
+          <mxGeometry height="80" width="320" x="10" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="dMyrrJ6eu9lxYmmp1Kkw-27" parent="1" style="swimlane;rounded=1;whiteSpace=wrap;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;fontStyle=1;" value="终极秘籍：1 分钟快速排雷" vertex="1">
+          <mxGeometry height="220" width="1050" x="-505" y="1245" as="geometry" />
+        </mxCell>
+        <mxCell id="dMyrrJ6eu9lxYmmp1Kkw-28" parent="dMyrrJ6eu9lxYmmp1Kkw-27" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d79b00;fillColor=#ffffff;fontSize=11;" value="1）看 ROE（净资产收益率）&#xa;- 连续 3 年 ROE 是否都 &gt; 15%？&#xa;- 用来筛选“好生意”。" vertex="1">
+          <mxGeometry height="80" width="320" x="10" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dMyrrJ6eu9lxYmmp1Kkw-29" parent="dMyrrJ6eu9lxYmmp1Kkw-27" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d79b00;fillColor=#ffffff;fontSize=11;" value="2）看含金量（经营现金流 / 净利润）&#xa;- 是否 &gt; 100%？&#xa;- 过滤掉“纸面利润、现金见不到”的公司。" vertex="1">
+          <mxGeometry height="80" width="320" x="360" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dMyrrJ6eu9lxYmmp1Kkw-30" parent="dMyrrJ6eu9lxYmmp1Kkw-27" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d79b00;fillColor=#ffffff;fontSize=11;" value="3）看毛利率走势&#xa;- 是平稳甚至缓慢上升，还是明显下滑？&#xa;- 下滑说明护城河在变窄，竞争在加剧。" vertex="1">
+          <mxGeometry height="80" width="320" x="710" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dMyrrJ6eu9lxYmmp1Kkw-31" parent="dMyrrJ6eu9lxYmmp1Kkw-27" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d79b00;fillColor=#ffffff;fontSize=11;" value="4）看应收账款占比&#xa;- 应收账款 / 总资产 如果 &gt; 20%，直接 Pass。&#xa;- 不轻易给别人长期赊账。" vertex="1">
+          <mxGeometry height="80" width="320" x="10" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="dMyrrJ6eu9lxYmmp1Kkw-32" parent="dMyrrJ6eu9lxYmmp1Kkw-27" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d79b00;fillColor=#ffffff;fontSize=11;" value="5）看存货周转&#xa;- 对卖手机、服装等行业：存货太多直接 Pass。&#xa;- 东西卖不出去，再便宜的估值也要谨慎。" vertex="1">
+          <mxGeometry height="80" width="320" x="360" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="dMyrrJ6eu9lxYmmp1Kkw-33" parent="dMyrrJ6eu9lxYmmp1Kkw-27" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d79b00;fillColor=#fff2cc;fontSize=11;" value="小结：利润表看“面子”，资产负债表看“底子”，现金流量表看“日子”。&#xa;配合 ROE、现金流、毛利率、应收账款和存货五个指标，就能快速排掉 80% 的垃圾公司。" vertex="1">
+          <mxGeometry height="80" width="320" x="710" y="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
