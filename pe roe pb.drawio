@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.1.1">
   <diagram name="财务与估值指标思维导图" id="ufsj-q_5ipa0hjQiidSy">
-    <mxGraphModel dx="2051" dy="1118" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="10" pageHeight="10" math="1" shadow="0">
+    <mxGraphModel dx="1479" dy="829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="10" pageHeight="10" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,6 +20,9 @@
           <mxGeometry height="60" width="140" x="295" y="110" as="geometry" />
         </mxCell>
         <mxCell id="lUxX8NhGaM9syOrfwbrv-3" edge="1" parent="1" source="lUxX8NhGaM9syOrfwbrv-1" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;" target="lUxX8NhGaM9syOrfwbrv-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a99eCsw-vh4daBJUyWcD-33" edge="1" parent="1" source="lUxX8NhGaM9syOrfwbrv-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="a99eCsw-vh4daBJUyWcD-32" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lUxX8NhGaM9syOrfwbrv-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12;" value="PE 市盈率&#xa;= 市值 / 净利润&#xa;= 股价 / EPS" vertex="1">
@@ -189,6 +192,9 @@
         </mxCell>
         <mxCell id="a99eCsw-vh4daBJUyWcD-30" edge="1" parent="1" source="a99eCsw-vh4daBJUyWcD-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.483;entryY=0.989;entryDx=0;entryDy=0;entryPerimeter=0;" target="a99eCsw-vh4daBJUyWcD-29">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a99eCsw-vh4daBJUyWcD-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12;" value="https://www.csindex.com.cn/#/dataService/PERatio?use_xbridge3=true&amp;amp;loader_name=forest&amp;amp;need_sec_link=1&amp;amp;sec_link_scene=im" vertex="1">
+          <mxGeometry height="80" width="430" x="-65" y="-70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
