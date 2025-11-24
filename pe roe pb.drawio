@@ -139,20 +139,14 @@
         <mxCell id="lUxX8NhGaM9syOrfwbrv-43" edge="1" parent="1" source="lUxX8NhGaM9syOrfwbrv-38" style="endArrow=block;rounded=0;html=1;" target="lUxX8NhGaM9syOrfwbrv-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qvAUuuZI1gwZsoqJ2Zli-6" edge="1" parent="1" source="qvAUuuZI1gwZsoqJ2Zli-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="qvAUuuZI1gwZsoqJ2Zli-5">
+        <mxCell id="a99eCsw-vh4daBJUyWcD-28" edge="1" parent="1" source="qvAUuuZI1gwZsoqJ2Zli-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qvAUuuZI1gwZsoqJ2Zli-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qvAUuuZI1gwZsoqJ2Zli-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fbe4e6;strokeColor=#b85450;fontSize=12;" value="长期来看，ROE 是股价上涨的“发动机”；短期来看，两者可能毫无关系。" vertex="1">
           <mxGeometry height="60" width="190" x="1415" y="440" as="geometry" />
         </mxCell>
-        <mxCell id="qvAUuuZI1gwZsoqJ2Zli-8" edge="1" parent="1" source="qvAUuuZI1gwZsoqJ2Zli-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="qvAUuuZI1gwZsoqJ2Zli-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="qvAUuuZI1gwZsoqJ2Zli-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fbe4e6;strokeColor=#b85450;fontSize=12;" value="巴菲特有句名言：“长期来看，股票的回报率很难超过其 ROE。”" vertex="1">
-          <mxGeometry height="60" width="190" x="1415" y="550" as="geometry" />
-        </mxCell>
         <mxCell id="qvAUuuZI1gwZsoqJ2Zli-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fbe4e6;strokeColor=#b85450;fontSize=12;" value="&lt;div&gt;现实中的“异常”：为什么银行 ROE 不低，股价却不涨？&lt;/div&gt;&lt;div&gt;你可能会问：“工商银行 ROE 有 10%-11%，比很多科技股都稳，为什么股价常年趴着不动，甚至破净（PB &amp;lt; 1）？”&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;这就涉及到了 ROE 和股价关系的第三层——预期与风险。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;股价公式其实是：&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;股价=现在的净资产×市场情绪 (PB)&lt;/div&gt;&lt;div&gt;虽然工行的“现在的净资产”每年都在靠 ROE 稳定增长（涨 7%），但“市场情绪”在不断变差。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;以前： 市场觉得银行 ROE 能维持 20%，给它 2 倍 PB。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;现在： 市场担心坏账、担心让利、担心 NIM 挤压，觉得“明年的 ROE 会暴跌”（虽然还没跌，但大家害怕会跌）。于是，市场把 PB 砸到了 0.5 倍。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;这种现象叫“杀估值”： 虽然你赚的钱变多了（净资产涨了），但大家觉得你的钱“不值钱”了（估值跌了）。 股价没涨，是因为“净资产的增长”被“估值的下跌”抵消了。&lt;/div&gt;" vertex="1">
-          <mxGeometry height="445" width="240" x="1695" y="357.5" as="geometry" />
+          <mxGeometry height="445" width="240" x="1710" y="355" as="geometry" />
         </mxCell>
         <mxCell id="a99eCsw-vh4daBJUyWcD-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FBE4E6;" value="$$&lt;br&gt;&lt;br&gt;\text{ROE}&lt;br&gt;&lt;br&gt;= \frac{\text{净利润}}{\text{净资产}}&lt;br&gt;&lt;br&gt;= \frac{\text{净利润}}{\text{营业收入}}&lt;br&gt;&lt;br&gt;\times \frac{\text{营业收入}}{\text{总资产}}&lt;br&gt;&lt;br&gt;\times \frac{\text{总资产}}{\text{净资产}}&lt;br&gt;&lt;br&gt;$$&amp;nbsp;&lt;div&gt;盈利能力 × 资产效率 × 杠杆&lt;/div&gt;" vertex="1">
           <mxGeometry height="90" width="300" x="1410" y="260" as="geometry" />
@@ -189,6 +183,12 @@
         </mxCell>
         <mxCell id="a99eCsw-vh4daBJUyWcD-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="分红率&amp;nbsp;&lt;div&gt;= 现金分红总额 / 归母净利润&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="85" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="a99eCsw-vh4daBJUyWcD-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FBE4E6;" value="$$PB(\text{市净率}) = PE(\text{市盈率}) \times ROE(\text{净资产收益率})$$" vertex="1">
+          <mxGeometry height="90" width="300" x="1415" y="135" as="geometry" />
+        </mxCell>
+        <mxCell id="a99eCsw-vh4daBJUyWcD-30" edge="1" parent="1" source="a99eCsw-vh4daBJUyWcD-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.483;entryY=0.989;entryDx=0;entryDy=0;entryPerimeter=0;" target="a99eCsw-vh4daBJUyWcD-29">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
