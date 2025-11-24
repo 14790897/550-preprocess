@@ -52,6 +52,9 @@
         <mxCell id="lUxX8NhGaM9syOrfwbrv-11" edge="1" parent="1" source="lUxX8NhGaM9syOrfwbrv-2" style="endArrow=block;rounded=0;html=1;" target="lUxX8NhGaM9syOrfwbrv-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="a99eCsw-vh4daBJUyWcD-44" edge="1" parent="1" source="lUxX8NhGaM9syOrfwbrv-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="a99eCsw-vh4daBJUyWcD-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lUxX8NhGaM9syOrfwbrv-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1f5e0;strokeColor=#82b366;fontSize=13;" value="盈利与资产指标" vertex="1">
           <mxGeometry height="60" width="170" x="780" y="100" as="geometry" />
         </mxCell>
@@ -201,6 +204,9 @@
         </mxCell>
         <mxCell id="a99eCsw-vh4daBJUyWcD-34" parent="1" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;$$\text{PE} \approx \frac{d}{k - r b} $$&lt;/p&gt;" vertex="1">
           <mxGeometry height="50" width="100" x="-75" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="a99eCsw-vh4daBJUyWcD-43" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#82b366;fontSize=12;" value="毛利率(代表护城河)" vertex="1">
+          <mxGeometry height="40" width="90" x="990" y="-10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
