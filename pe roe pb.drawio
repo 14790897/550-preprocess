@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.1.0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.1.1">
   <diagram name="财务与估值指标思维导图" id="ufsj-q_5ipa0hjQiidSy">
-    <mxGraphModel dx="1478" dy="813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="10" pageHeight="10" math="0" shadow="0">
+    <mxGraphModel dx="1784" dy="984" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="10" pageHeight="10" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="lUxX8NhGaM9syOrfwbrv-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" value="财务与估值指标关系" vertex="1">
+        <mxCell id="lUxX8NhGaM9syOrfwbrv-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" value="价值投资里最常用的指标" vertex="1">
           <mxGeometry height="100" width="200" x="485" y="225" as="geometry" />
         </mxCell>
         <mxCell id="lUxX8NhGaM9syOrfwbrv-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=13;" value="估值指标" vertex="1">
@@ -82,6 +82,9 @@
         <mxCell id="qvAUuuZI1gwZsoqJ2Zli-4" edge="1" parent="1" source="lUxX8NhGaM9syOrfwbrv-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="qvAUuuZI1gwZsoqJ2Zli-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="a99eCsw-vh4daBJUyWcD-2" edge="1" parent="1" source="lUxX8NhGaM9syOrfwbrv-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="a99eCsw-vh4daBJUyWcD-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lUxX8NhGaM9syOrfwbrv-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fbe4e6;strokeColor=#b85450;fontSize=12;" value="定义：&#xa;ROE = 净利润 / 净资产" vertex="1">
           <mxGeometry height="60" width="190" x="1040" y="360" as="geometry" />
         </mxCell>
@@ -119,19 +122,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lUxX8NhGaM9syOrfwbrv-38" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0e1ff;strokeColor=#9673a6;fontSize=13;" value="加密货币类比指标" vertex="1">
-          <mxGeometry height="60" width="180" x="500" y="520" as="geometry" />
+          <mxGeometry height="60" width="180" x="485" y="1070" as="geometry" />
         </mxCell>
         <mxCell id="lUxX8NhGaM9syOrfwbrv-39" edge="1" parent="1" source="lUxX8NhGaM9syOrfwbrv-1" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;" target="lUxX8NhGaM9syOrfwbrv-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lUxX8NhGaM9syOrfwbrv-40" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f7ecff;strokeColor=#9673a6;fontSize=12;" value="类 PS_fee&#xa;= 市值 / 协议收入&#xa;(如 ETH 的 Gas 费)" vertex="1">
-          <mxGeometry height="70" width="210" x="720" y="520" as="geometry" />
+          <mxGeometry height="70" width="210" x="600" y="1175" as="geometry" />
         </mxCell>
         <mxCell id="lUxX8NhGaM9syOrfwbrv-41" edge="1" parent="1" source="lUxX8NhGaM9syOrfwbrv-38" style="endArrow=block;rounded=0;html=1;" target="lUxX8NhGaM9syOrfwbrv-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lUxX8NhGaM9syOrfwbrv-42" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f7ecff;strokeColor=#9673a6;fontSize=12;" value="P/TVL&#xa;= 市值 / TVL&#xa;(锁仓资产规模)" vertex="1">
-          <mxGeometry height="70" width="210" x="720" y="600" as="geometry" />
+          <mxGeometry height="70" width="210" x="355" y="1175" as="geometry" />
         </mxCell>
         <mxCell id="lUxX8NhGaM9syOrfwbrv-43" edge="1" parent="1" source="lUxX8NhGaM9syOrfwbrv-38" style="endArrow=block;rounded=0;html=1;" target="lUxX8NhGaM9syOrfwbrv-42">
           <mxGeometry relative="1" as="geometry" />
@@ -150,6 +153,9 @@
         </mxCell>
         <mxCell id="qvAUuuZI1gwZsoqJ2Zli-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fbe4e6;strokeColor=#b85450;fontSize=12;" value="&lt;div&gt;现实中的“异常”：为什么银行 ROE 不低，股价却不涨？&lt;/div&gt;&lt;div&gt;你可能会问：“工商银行 ROE 有 10%-11%，比很多科技股都稳，为什么股价常年趴着不动，甚至破净（PB &amp;lt; 1）？”&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;这就涉及到了 ROE 和股价关系的第三层——预期与风险。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;股价公式其实是：&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;股价=现在的净资产×市场情绪 (PB)&lt;/div&gt;&lt;div&gt;虽然工行的“现在的净资产”每年都在靠 ROE 稳定增长（涨 7%），但**“市场情绪”在不断变差**。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;以前： 市场觉得银行 ROE 能维持 20%，给它 2 倍 PB。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;现在： 市场担心坏账、担心让利、担心 NIM 挤压，觉得**“明年的 ROE 会暴跌”**（虽然还没跌，但大家害怕会跌）。于是，市场把 PB 砸到了 0.5 倍。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;这种现象叫“杀估值”： 虽然你赚的钱变多了（净资产涨了），但大家觉得你的钱“不值钱”了（估值跌了）。 股价没涨，是因为“净资产的增长”被“估值的下跌”抵消了。&lt;/div&gt;" vertex="1">
           <mxGeometry height="445" width="240" x="1555" y="277.5" as="geometry" />
+        </mxCell>
+        <mxCell id="a99eCsw-vh4daBJUyWcD-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FBE4E6;" value="$$&lt;br&gt;&lt;br&gt;\text{ROE}&lt;br&gt;&lt;br&gt;= \frac{\text{净利润}}{\text{净资产}}&lt;br&gt;&lt;br&gt;= \frac{\text{净利润}}{\text{营业收入}}&lt;br&gt;&lt;br&gt;\times \frac{\text{营业收入}}{\text{总资产}}&lt;br&gt;&lt;br&gt;\times \frac{\text{总资产}}{\text{净资产}}&lt;br&gt;&lt;br&gt;$$&amp;nbsp;&lt;div&gt;盈利能力 × 资产效率 × 杠杆&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="345" x="1270" y="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
