@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.1.1">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="RealEstateComparison">
-    <mxGraphModel dx="1528" dy="1643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1528" dy="1643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -48,11 +48,11 @@
             <mxPoint x="8" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Dt8URg5UBNyGEnLt6fkR-77" edge="1" parent="1" source="Dt8URg5UBNyGEnLt6fkR-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Dt8URg5UBNyGEnLt6fkR-76" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Dt8URg5UBNyGEnLt6fkR-38" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;" value="������ 估值公式" vertex="1">
           <mxGeometry height="60" width="140" x="880" y="480" as="geometry" />
-        </mxCell>
-        <mxCell id="Dt8URg5UBNyGEnLt6fkR-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;dashed=1;" value="合理房价 = 年租金 ÷ 无风险收益率 + 风险溢价" vertex="1">
-          <mxGeometry height="40" width="260" x="850" y="550" as="geometry" />
         </mxCell>
         <mxCell id="Dt8URg5UBNyGEnLt6fkR-73" edge="1" parent="1" source="Dt8URg5UBNyGEnLt6fkR-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Dt8URg5UBNyGEnLt6fkR-72" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -137,6 +137,9 @@
         </mxCell>
         <mxCell id="Dt8URg5UBNyGEnLt6fkR-74" parent="1" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;fontStyle=1;" value="&lt;span style=&quot;font-size: 11px; font-weight: 400;&quot;&gt;如果：租金回报率 &amp;gt; 存款利率&lt;/span&gt;&lt;br style=&quot;font-size: 11px; font-weight: 400;&quot;&gt;&lt;span style=&quot;font-size: 11px; font-weight: 400;&quot;&gt;(例: 5% &amp;gt; 2.5% + 2%)&lt;/span&gt;&lt;div style=&quot;font-size: 11px; font-weight: 400;&quot;&gt;说明：&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;不考虑其他因素,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;房产具备投资价值&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="220" x="660" y="737.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Dt8URg5UBNyGEnLt6fkR-76" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;" value="&lt;br&gt;$$合理房价 = \frac{年租金}{(无风险收益率 + 风险溢价)}$$" vertex="1">
+          <mxGeometry height="60" width="240" x="950" y="590" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
