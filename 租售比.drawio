@@ -108,11 +108,20 @@
         <mxCell id="Dt8URg5UBNyGEnLt6fkR-60" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="其他资料: https://news.qq.com/rain/a/20241001A012GB00&lt;div&gt;https://www.163.com/dy/article/K6FCK1O805525O8Q.html&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="320" x="990" y="-413" as="geometry" />
         </mxCell>
+        <mxCell id="JLLG_ZR673IDLrUnUNs2-4" edge="1" parent="1" source="Dt8URg5UBNyGEnLt6fkR-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="JLLG_ZR673IDLrUnUNs2-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Dt8URg5UBNyGEnLt6fkR-61" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="中国十年期国债收益率1.82%" vertex="1">
           <mxGeometry height="60" width="120" x="350" y="210" as="geometry" />
         </mxCell>
+        <mxCell id="JLLG_ZR673IDLrUnUNs2-6" edge="1" parent="1" source="Dt8URg5UBNyGEnLt6fkR-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="JLLG_ZR673IDLrUnUNs2-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Dt8URg5UBNyGEnLt6fkR-62" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="美国十年期国债收益率4.05%" vertex="1">
-          <mxGeometry height="60" width="120" x="780" y="210" as="geometry" />
+          <mxGeometry height="50" width="120" x="780" y="215" as="geometry" />
+        </mxCell>
+        <mxCell id="JLLG_ZR673IDLrUnUNs2-10" edge="1" parent="1" source="Dt8URg5UBNyGEnLt6fkR-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="JLLG_ZR673IDLrUnUNs2-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Dt8URg5UBNyGEnLt6fkR-63" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="韩国十年期国债收益率3.24%" vertex="1">
           <mxGeometry height="60" width="120" x="1190" y="210" as="geometry" />
@@ -140,6 +149,9 @@
         </mxCell>
         <mxCell id="Dt8URg5UBNyGEnLt6fkR-74" parent="1" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;fontStyle=1;" value="&lt;span style=&quot;font-size: 11px; font-weight: 400;&quot;&gt;如果：租售比&amp;nbsp;&amp;gt; 存款利率&amp;nbsp;+ 风险溢价&lt;/span&gt;&lt;br style=&quot;font-size: 11px; font-weight: 400;&quot;&gt;&lt;span style=&quot;font-size: 11px; font-weight: 400;&quot;&gt;(例: 5% &amp;gt; 2.5% + 2%)&lt;/span&gt;&lt;div style=&quot;font-size: 11px; font-weight: 400;&quot;&gt;说明：&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;不考虑其他因素,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;房产具备投资价值&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="220" x="656.25" y="667.5" as="geometry" />
+        </mxCell>
+        <mxCell id="JLLG_ZR673IDLrUnUNs2-11" edge="1" parent="1" source="Dt8URg5UBNyGEnLt6fkR-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="JLLG_ZR673IDLrUnUNs2-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Dt8URg5UBNyGEnLt6fkR-76" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;" value="&lt;br&gt;$$合理房价 = \frac{年租金}{(无风险收益率 + 风险溢价)}$$" vertex="1">
           <mxGeometry height="60" width="240" x="950" y="590" as="geometry" />
@@ -181,6 +193,21 @@
         </mxCell>
         <mxCell id="Dt8URg5UBNyGEnLt6fkR-36" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontStyle=1;" value="������ 地心引力法则" vertex="1">
           <mxGeometry height="60" width="140" x="240" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="JLLG_ZR673IDLrUnUNs2-3" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="不合理" vertex="1">
+          <mxGeometry height="30" width="100" x="360" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="JLLG_ZR673IDLrUnUNs2-13" edge="1" parent="1" source="JLLG_ZR673IDLrUnUNs2-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="JLLG_ZR673IDLrUnUNs2-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JLLG_ZR673IDLrUnUNs2-5" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="不合理" vertex="1">
+          <mxGeometry height="30" width="100" x="790" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="JLLG_ZR673IDLrUnUNs2-12" edge="1" parent="1" source="JLLG_ZR673IDLrUnUNs2-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="JLLG_ZR673IDLrUnUNs2-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JLLG_ZR673IDLrUnUNs2-9" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="不合理" vertex="1">
+          <mxGeometry height="30" width="100" x="1200" y="300" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
