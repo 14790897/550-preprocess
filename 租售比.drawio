@@ -162,7 +162,7 @@
         <mxCell id="Dt8URg5UBNyGEnLt6fkR-87" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="25" width="60" x="1570" y="380" as="geometry" />
         </mxCell>
-        <mxCell id="Dt8URg5UBNyGEnLt6fkR-89" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=5;" value="考虑人口减少,房子变多,房价很难上涨" vertex="1">
+        <mxCell id="Dt8URg5UBNyGEnLt6fkR-89" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=5;" value="考虑人口减少,房子建成数量变多,房价很难上涨" vertex="1">
           <mxGeometry height="60" width="120" x="150" y="315" as="geometry" />
         </mxCell>
         <mxCell id="Dt8URg5UBNyGEnLt6fkR-34" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fontColor=#666666;" value="⬇️ 核心工具：如何判断房价泡沫？" vertex="1">
