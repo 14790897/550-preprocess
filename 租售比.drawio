@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.1.1">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="RealEstateComparison">
-    <mxGraphModel dx="2158" dy="1979" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1265" dy="1502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,19 +10,19 @@
         <mxCell id="Dt8URg5UBNyGEnLt6fkR-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;fontStyle=1;fontSize=14;" value="������������ 中国模式&#xa;(增值导向/负现金流)" vertex="1">
           <mxGeometry height="50" width="180" x="120" y="140" as="geometry" />
         </mxCell>
-        <mxCell id="Dt8URg5UBNyGEnLt6fkR-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=5;fontSize=12;" value="1. 租售比极低 (1:600)&#xa;2. 靠隐性福利(户口)支撑&#xa;3. 逻辑：买房=存钱罐" vertex="1">
+        <mxCell id="Dt8URg5UBNyGEnLt6fkR-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=5;fontSize=12;" value="1. 租售比极低 (上海1.57%)&lt;br&gt;2. 靠隐性福利(户口)支撑&lt;br&gt;3. 逻辑：买房=存钱罐" vertex="1">
           <mxGeometry height="80" width="180" x="120" y="200" as="geometry" />
         </mxCell>
         <mxCell id="Dt8URg5UBNyGEnLt6fkR-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=14;" value="������������ 美国模式&#xa;(现金流导向/高持有成本)" vertex="1">
           <mxGeometry height="50" width="180" x="540" y="140" as="geometry" />
         </mxCell>
-        <mxCell id="Dt8URg5UBNyGEnLt6fkR-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=5;fontSize=12;" value="1. 租售比健康 (1:200)&#xa;2. 房产税/维修费极高&#xa;3. 逻辑：买房=生钱奶牛" vertex="1">
+        <mxCell id="Dt8URg5UBNyGEnLt6fkR-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=5;fontSize=12;" value="1. 租售比健康 (纽约 6.41%)&lt;br&gt;2. 房产税/维修费极高&lt;br&gt;3. 逻辑：买房=生钱奶牛" vertex="1">
           <mxGeometry height="80" width="180" x="540" y="200" as="geometry" />
         </mxCell>
         <mxCell id="Dt8URg5UBNyGEnLt6fkR-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;fontSize=14;" value="������������ 韩国模式&#xa;(全租杠杆/高风险)" vertex="1">
           <mxGeometry height="50" width="180" x="960" y="140" as="geometry" />
         </mxCell>
-        <mxCell id="Dt8URg5UBNyGEnLt6fkR-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=5;fontSize=12;" value="1. 全租房(Jeonse)体系&#xa;2. 2025信用崩塌危机&#xa;3. 逻辑：租客帮房东融资" vertex="1">
+        <mxCell id="Dt8URg5UBNyGEnLt6fkR-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=5;fontSize=12;" value="1. 全租房(Jeonse)体系(首尔 1.02%)&lt;br&gt;2. 2025信用崩塌危机&lt;br&gt;3. 逻辑：租客帮房东融资" vertex="1">
           <mxGeometry height="80" width="180" x="960" y="200" as="geometry" />
         </mxCell>
         <mxCell id="Dt8URg5UBNyGEnLt6fkR-33" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;strokeWidth=2;strokeColor=#999999;" value="">
