@@ -31,9 +31,6 @@
         <mxCell id="Dt8URg5UBNyGEnLt6fkR-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=5;fontSize=12;" value="1. 全租房(Jeonse)体系(首尔公寓租售比1.02%)&lt;br&gt;2. 2025信用崩塌危机&lt;br&gt;3. 逻辑：租客帮房东融资&lt;div&gt;→ 对利率和房价极度敏感&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="180" x="960" y="200" as="geometry" />
         </mxCell>
-        <mxCell id="Dt8URg5UBNyGEnLt6fkR-34" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fontColor=#666666;" value="⬇️ 核心工具：如何判断房价泡沫？" vertex="1">
-          <mxGeometry height="30" width="300" x="480" y="330" as="geometry" />
-        </mxCell>
         <mxCell id="Dt8URg5UBNyGEnLt6fkR-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=16;" value="⚖️ 租售比 (房屋的市盈率)&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;租售比 = 年租金 / 房价&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="300" x="480" y="380" as="geometry" />
         </mxCell>
@@ -167,6 +164,9 @@
         </mxCell>
         <mxCell id="Dt8URg5UBNyGEnLt6fkR-89" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=5;" value="考虑人口减少,房子变多,房价很难上涨" vertex="1">
           <mxGeometry height="60" width="120" x="150" y="315" as="geometry" />
+        </mxCell>
+        <mxCell id="Dt8URg5UBNyGEnLt6fkR-34" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fontColor=#666666;" value="⬇️ 核心工具：如何判断房价泡沫？" vertex="1">
+          <mxGeometry height="30" width="300" x="480" y="330" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
