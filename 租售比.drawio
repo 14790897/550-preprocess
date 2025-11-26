@@ -115,6 +115,15 @@
         <mxCell id="Dt8URg5UBNyGEnLt6fkR-60" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="https://news.qq.com/rain/a/20241001A012GB00&lt;div&gt;https://www.163.com/dy/article/K6FCK1O805525O8Q.html&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="320" x="880" y="650" as="geometry" />
         </mxCell>
+        <mxCell id="Dt8URg5UBNyGEnLt6fkR-61" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="中国十年期国债收益率1.82%" vertex="1">
+          <mxGeometry height="60" width="120" x="210" y="635" as="geometry" />
+        </mxCell>
+        <mxCell id="Dt8URg5UBNyGEnLt6fkR-62" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="美国十年期国债收益率4.05%" vertex="1">
+          <mxGeometry height="60" width="120" x="210" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="Dt8URg5UBNyGEnLt6fkR-63" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="韩国十年期国债收益率3.24%" vertex="1">
+          <mxGeometry height="60" width="120" x="210" y="767" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
