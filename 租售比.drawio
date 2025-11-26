@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.1.1">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="RealEstateComparison">
-    <mxGraphModel dx="2434" dy="1502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
+    <mxGraphModel dx="3003" dy="1806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -109,6 +109,9 @@
           <mxGeometry height="60" width="320" x="990" y="-413" as="geometry" />
         </mxCell>
         <mxCell id="JLLG_ZR673IDLrUnUNs2-4" edge="1" parent="1" source="Dt8URg5UBNyGEnLt6fkR-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="JLLG_ZR673IDLrUnUNs2-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KVtI9VV6tBu-MPye2SBA-2" edge="1" parent="1" source="Dt8URg5UBNyGEnLt6fkR-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KVtI9VV6tBu-MPye2SBA-1" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Dt8URg5UBNyGEnLt6fkR-61" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="中国十年期国债收益率1.82%" vertex="1">
@@ -224,6 +227,9 @@
         </mxCell>
         <mxCell id="229M1V7u4blq6bLbrZ39-3" parent="1" style="whiteSpace=wrap;html=1;align=left;rounded=0;spacingLeft=5;" value="应该是一个周期性的,目前在高点,之后会回落,之前主要是单位分房 拆迁 便宜" vertex="1">
           <mxGeometry height="60" width="120" x="-30" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="KVtI9VV6tBu-MPye2SBA-1" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="十年期国债收益率&lt;span style=&quot;color: rgb(10, 10, 10); font-family: &amp;quot;Google Sans&amp;quot;, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;≈&lt;/span&gt;无风险收益率" vertex="1">
+          <mxGeometry height="45" width="120" x="350" y="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
