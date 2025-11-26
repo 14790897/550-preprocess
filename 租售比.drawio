@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.1.1">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="RealEstateComparison">
-    <mxGraphModel dx="3003" dy="1806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
+    <mxGraphModel dx="2217" dy="1386" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -15,6 +15,11 @@
         </mxCell>
         <mxCell id="Dt8URg5UBNyGEnLt6fkR-90" edge="1" parent="1" source="Dt8URg5UBNyGEnLt6fkR-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Dt8URg5UBNyGEnLt6fkR-89" value="">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KVtI9VV6tBu-MPye2SBA-5" connectable="0" parent="Dt8URg5UBNyGEnLt6fkR-90" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="未来" vertex="1">
+          <mxGeometry relative="1" x="-0.3513" y="-1" as="geometry">
+            <mxPoint x="21" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Dt8URg5UBNyGEnLt6fkR-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=5;fontSize=12;" value="1. 租售比低 (上海1.57%)&lt;br&gt;2. 靠隐性福利(户口,教育), 投资期望支撑,无房产税,传统购房观念影响&lt;div&gt;→ 房子被当成“综合资产”&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="180" x="120" y="200" as="geometry" />
@@ -190,11 +195,13 @@
         <mxCell id="Dt8URg5UBNyGEnLt6fkR-96" edge="1" parent="1" source="Dt8URg5UBNyGEnLt6fkR-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Dt8URg5UBNyGEnLt6fkR-70">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="229M1V7u4blq6bLbrZ39-4" edge="1" parent="1" source="Dt8URg5UBNyGEnLt6fkR-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="229M1V7u4blq6bLbrZ39-3" value="">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="229M1V7u4blq6bLbrZ39-4" edge="1" parent="1" source="Dt8URg5UBNyGEnLt6fkR-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="229M1V7u4blq6bLbrZ39-3" value="历史">
+          <mxGeometry relative="1" x="-0.3333" y="-10" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Dt8URg5UBNyGEnLt6fkR-89" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=5;" value="考虑人口减少,房子建成数量变多,核心区可能上涨,非核心区房价很难上涨" vertex="1">
-          <mxGeometry height="60" width="150" x="135" y="300" as="geometry" />
+          <mxGeometry height="60" width="150" x="135" y="315" as="geometry" />
         </mxCell>
         <mxCell id="Dt8URg5UBNyGEnLt6fkR-34" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fontColor=#666666;" value="⬇️ 核心工具：如何判断房价泡沫？" vertex="1">
           <mxGeometry height="30" width="300" x="480" y="330" as="geometry" />
@@ -216,7 +223,7 @@
         <mxCell id="JLLG_ZR673IDLrUnUNs2-13" edge="1" parent="1" source="JLLG_ZR673IDLrUnUNs2-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="JLLG_ZR673IDLrUnUNs2-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JLLG_ZR673IDLrUnUNs2-5" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="较为不合理" vertex="1">
+        <mxCell id="JLLG_ZR673IDLrUnUNs2-5" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="风险收益不匹配" vertex="1">
           <mxGeometry height="30" width="100" x="790" y="300" as="geometry" />
         </mxCell>
         <mxCell id="JLLG_ZR673IDLrUnUNs2-12" edge="1" parent="1" source="JLLG_ZR673IDLrUnUNs2-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="JLLG_ZR673IDLrUnUNs2-5">
@@ -225,8 +232,8 @@
         <mxCell id="JLLG_ZR673IDLrUnUNs2-9" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="极度不合理" vertex="1">
           <mxGeometry height="30" width="100" x="1200" y="300" as="geometry" />
         </mxCell>
-        <mxCell id="229M1V7u4blq6bLbrZ39-3" parent="1" style="whiteSpace=wrap;html=1;align=left;rounded=0;spacingLeft=5;" value="应该是一个周期性的,目前在高点,之后会回落,之前主要是单位分房 拆迁 便宜" vertex="1">
-          <mxGeometry height="60" width="120" x="-30" y="300" as="geometry" />
+        <mxCell id="229M1V7u4blq6bLbrZ39-3" parent="1" style="whiteSpace=wrap;html=1;align=left;rounded=0;spacingLeft=5;" value="主要是单位分房 拆迁 便宜" vertex="1">
+          <mxGeometry height="50" width="120" x="-10" y="320" as="geometry" />
         </mxCell>
         <mxCell id="KVtI9VV6tBu-MPye2SBA-1" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="十年期国债收益率&lt;span style=&quot;color: rgb(10, 10, 10); font-family: &amp;quot;Google Sans&amp;quot;, Arial, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;≈&lt;/span&gt;无风险收益率" vertex="1">
           <mxGeometry height="45" width="120" x="350" y="140" as="geometry" />
