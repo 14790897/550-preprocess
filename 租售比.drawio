@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.1.1">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="RealEstateComparison">
-    <mxGraphModel dx="1390" dy="1441" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
+    <mxGraphModel dx="1528" dy="1643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -84,12 +84,12 @@
         <mxCell id="Dt8URg5UBNyGEnLt6fkR-49" edge="1" parent="1" source="Dt8URg5UBNyGEnLt6fkR-31" target="Dt8URg5UBNyGEnLt6fkR-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Dt8URg5UBNyGEnLt6fkR-50" edge="1" parent="1" source="Dt8URg5UBNyGEnLt6fkR-26" target="Dt8URg5UBNyGEnLt6fkR-35">
+        <mxCell id="Dt8URg5UBNyGEnLt6fkR-50" edge="1" parent="1" source="Dt8URg5UBNyGEnLt6fkR-30" style="exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" target="Dt8URg5UBNyGEnLt6fkR-35">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="630" y="350" />
             </Array>
-            <mxPoint x="630" y="100" as="sourcePoint" />
+            <mxPoint x="650" y="310" as="sourcePoint" />
             <mxPoint x="630" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -132,13 +132,13 @@
         <mxCell id="Dt8URg5UBNyGEnLt6fkR-70" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontStyle=1;" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;房价长期必须回归租金回报&lt;/span&gt;&lt;br style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;泡沫终将被租金刺破&lt;/span&gt;&#xa;&#xa;" vertex="1">
           <mxGeometry height="50" width="140" x="70" y="485" as="geometry" />
         </mxCell>
-        <mxCell id="Dt8URg5UBNyGEnLt6fkR-72" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;" value="&lt;span style=&quot;font-size: 11px; font-weight: 400;&quot;&gt;如果：租金回报率 &amp;lt; 存款利率&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 11px; font-weight: 400;&quot;&gt;+ 风险溢价&lt;/span&gt;&lt;br style=&quot;font-size: 11px; font-weight: 400;&quot;&gt;&lt;span style=&quot;font-size: 11px; font-weight: 400;&quot;&gt;(例: 1.5% &amp;lt; 2.5% + 2%)&lt;/span&gt;&lt;br style=&quot;font-size: 11px; font-weight: 400;&quot;&gt;&lt;span style=&quot;font-size: 11px; font-weight: 400;&quot;&gt;说明：不考虑其他因素, 买房不如存银行&lt;/span&gt;" vertex="1">
+        <mxCell id="Dt8URg5UBNyGEnLt6fkR-72" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;" value="&lt;span style=&quot;font-size: 11px; font-weight: 400;&quot;&gt;如果：租售比&amp;nbsp;&amp;lt; 存款利率&amp;nbsp;+ 风险溢价&lt;/span&gt;&lt;br style=&quot;font-size: 11px; font-weight: 400;&quot;&gt;&lt;span style=&quot;font-size: 11px; font-weight: 400;&quot;&gt;(例: 1.5% &amp;lt; 2.5% + 2%)&lt;/span&gt;&lt;br style=&quot;font-size: 11px; font-weight: 400;&quot;&gt;&lt;span style=&quot;font-size: 11px; font-weight: 400;&quot;&gt;说明：不考虑其他因素, 买房不如存银行&lt;/span&gt;" vertex="1">
           <mxGeometry height="60" width="205" x="383.75" y="667.5" as="geometry" />
         </mxCell>
         <mxCell id="Dt8URg5UBNyGEnLt6fkR-81" edge="1" parent="1" source="Dt8URg5UBNyGEnLt6fkR-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Dt8URg5UBNyGEnLt6fkR-80" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Dt8URg5UBNyGEnLt6fkR-74" parent="1" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;fontStyle=1;" value="&lt;span style=&quot;font-size: 11px; font-weight: 400;&quot;&gt;如果：租金回报率 &amp;gt; 存款利率&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 11px; font-weight: 400;&quot;&gt;+ 风险溢价&lt;/span&gt;&lt;br style=&quot;font-size: 11px; font-weight: 400;&quot;&gt;&lt;span style=&quot;font-size: 11px; font-weight: 400;&quot;&gt;(例: 5% &amp;gt; 2.5% + 2%)&lt;/span&gt;&lt;div style=&quot;font-size: 11px; font-weight: 400;&quot;&gt;说明：&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;不考虑其他因素,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;房产具备投资价值&lt;/span&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="Dt8URg5UBNyGEnLt6fkR-74" parent="1" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;fontStyle=1;" value="&lt;span style=&quot;font-size: 11px; font-weight: 400;&quot;&gt;如果：租售比&amp;nbsp;&amp;gt; 存款利率&amp;nbsp;+ 风险溢价&lt;/span&gt;&lt;br style=&quot;font-size: 11px; font-weight: 400;&quot;&gt;&lt;span style=&quot;font-size: 11px; font-weight: 400;&quot;&gt;(例: 5% &amp;gt; 2.5% + 2%)&lt;/span&gt;&lt;div style=&quot;font-size: 11px; font-weight: 400;&quot;&gt;说明：&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;不考虑其他因素,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;房产具备投资价值&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="220" x="656.25" y="667.5" as="geometry" />
         </mxCell>
         <mxCell id="Dt8URg5UBNyGEnLt6fkR-76" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;" value="&lt;br&gt;$$合理房价 = \frac{年租金}{(无风险收益率 + 风险溢价)}$$" vertex="1">
@@ -147,8 +147,8 @@
         <mxCell id="Dt8URg5UBNyGEnLt6fkR-83" edge="1" parent="1" source="Dt8URg5UBNyGEnLt6fkR-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Dt8URg5UBNyGEnLt6fkR-82" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Dt8URg5UBNyGEnLt6fkR-80" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;" value="但是这个收益率,稳定性,流动性比QQQ差远了,因此房子不应该作为一个投资手段" vertex="1">
-          <mxGeometry height="60" width="153.75" x="689.37" y="767" as="geometry" />
+        <mxCell id="Dt8URg5UBNyGEnLt6fkR-80" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;" value="房子收益率,稳定性,流动性比QQQ差远了,因此房子不应该作为一个投资手段" vertex="1">
+          <mxGeometry height="60" width="153.75" x="689.38" y="767" as="geometry" />
         </mxCell>
         <mxCell id="Dt8URg5UBNyGEnLt6fkR-82" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;fontStyle=1;" value="把钱拿去投QQQ然后把收益再去租房最划算(但是一定要坚定持有)&lt;div&gt;做空被高估的资产&lt;/div&gt;&lt;div&gt;做多高成长的资产&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="383.75" x="574.37" y="870" as="geometry" />
@@ -162,11 +162,19 @@
         <mxCell id="Dt8URg5UBNyGEnLt6fkR-87" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="25" width="60" x="1570" y="380" as="geometry" />
         </mxCell>
-        <mxCell id="Dt8URg5UBNyGEnLt6fkR-89" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=5;" value="考虑人口减少,房子建成数量变多,房价很难上涨" vertex="1">
-          <mxGeometry height="60" width="120" x="150" y="315" as="geometry" />
+        <mxCell id="Dt8URg5UBNyGEnLt6fkR-89" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=5;" value="考虑人口减少,房子建成数量变多,核心区可能上涨,非核心区房价很难上涨" vertex="1">
+          <mxGeometry height="60" width="150" x="135" y="300" as="geometry" />
         </mxCell>
         <mxCell id="Dt8URg5UBNyGEnLt6fkR-34" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;fontColor=#666666;" value="⬇️ 核心工具：如何判断房价泡沫？" vertex="1">
           <mxGeometry height="30" width="300" x="480" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="Dt8URg5UBNyGEnLt6fkR-94" edge="1" parent="1" source="Dt8URg5UBNyGEnLt6fkR-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.004;entryY=0.86;entryDx=0;entryDy=0;entryPerimeter=0;" target="Dt8URg5UBNyGEnLt6fkR-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dt8URg5UBNyGEnLt6fkR-95" connectable="0" parent="Dt8URg5UBNyGEnLt6fkR-94" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="需要房子,怎么办?" vertex="1">
+          <mxGeometry relative="1" x="-0.3343" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
